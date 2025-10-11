@@ -6,4 +6,7 @@
 - Helped boss to analyze market potential for company’s product which is a newly rennovated washing machine designed by my superadvisor in the company and participated in daily meetings to understand team’s structure, working principles.
 - Participated and represented company's booth in energy supply expedition in Hong Kong in 2024, help promoted company's products to the public.
 
-![Towngas booth]
+[Repository](https://github.com/Leilazehui/towngas-intern)
+
+
+![Towngas Promotion Booth](/assets/images/towngas-promotion-booth.jpg)
