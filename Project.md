@@ -6,7 +6,7 @@
 
 **Short:** Designed a lightweight trainer aircraft, performed aerodynamic analysis and designed attachment and deployment mechanism for banner towing event.
 
-[Repository](https://github.com/Leilazehui/dbf-project)
+[Repository](https://github.com/Leilazehui/dbf-aiaa)
 
 
 ![DBF render](/assets/images/dbf-render.jpg)
