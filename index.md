@@ -22,7 +22,7 @@ I am a Mechanical Engineering student at The University of Hong Kong, focusing o
 
 ## Featured project
 
-### DBF IAA 2026 (Team Captain)
+### DBF AIAA 2026 (Team Captain)
 - Manage team progress
 - Work on aerodynamic analysis, including calculation for main wing, estimated velocity and aerodynamics parameters, analyze aircraft design on CFD
 - Work on a attachment and deployment mechanism for banner towing motion
