@@ -1,0 +1,12 @@
+### DBF Aircraft Design
+
+**Role:** Team Captain
+
+**Tools:** SolidWorks, XFLR5, ANSYS, 3D Printing, 
+
+**Short:** Designed a lightweight trainer aircraft, performed aerodynamic analysis and designed attachment and deployment mechanism for banner towing event.
+
+[Repository](https://github.com/Leilazehui/dbf-project)
+
+
+![DBF render](/assets/images/dbf-render.jpg)
