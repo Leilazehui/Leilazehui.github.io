@@ -1,5 +1,5 @@
 ---
-title: About
+title: Leila Zhao
 permalink: /about/
 ---
 
