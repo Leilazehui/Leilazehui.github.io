@@ -15,6 +15,10 @@ Hi, this is Leila. I am recording my academic projects, work experience and inte
 
 
 ### Winter Intern: Student Technician in Feelings Group, Dec 2024 - Jan 2025 
+[Repository](https://github.com/Leilazehui/student)
+
+
+![Towngas Promotion Booth](/assets/images/towngas-promotion-booth.jpg)
 
 ### Part-Time Temporary Student Research Assistant in The University of Hong Kong, Sept 2025 til now
 
