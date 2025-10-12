@@ -8,7 +8,7 @@ Hi, this is Leila. I am recording my academic projects, work experience and inte
 ### Summer Intern in The Hong Kong and China Gas Company (Towngas)
 
 **Job description**:
-[Repository](https://github.com/Leilazehui/towngas-intern)
+[Repository](https://github.com/Leilazehui/Leilazehui.github.io/Work experience/towngas-intern.md)
 
 
 ![Towngas Promotion Booth](/assets/images/towngas-promotion-booth.jpg)
