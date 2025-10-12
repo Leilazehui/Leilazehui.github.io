@@ -4,7 +4,7 @@
 
 **Job Description**:
 
-[Repository](https://github.com/Leilazehui/SRA)
+[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/PTTSRA.md)
 
 
 ![SRA](/assets/images/sra.jpg)
