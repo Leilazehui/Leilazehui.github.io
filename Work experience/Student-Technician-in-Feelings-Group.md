@@ -4,7 +4,7 @@
 
 **Job Description**: 
 
-[Repository](https://github.com/Leilazehui/feelingsgroup)
+[Repository](https://github.com/Leilazehui/Leilazehui.github.io/Work/Student-Technician-in-Feelings-Group.md)
 
 
 ![Feelings Group](/assets/images/feelingsgroup.jpg)
