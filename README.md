@@ -6,8 +6,7 @@ Hi, this is Leila. I am a mechanical engienering student studying in the Univers
 ### Here are my project porfolio & CV:
 
 [Proj_Porfolio](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Project_porfolio_Zhao%20Zehui.pdf)
-
-[CV]()
+[CV](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Zhao_Zehui_CV.pdf)
 
 ### Here are my Work experiences:
 ### Summer Intern in The Hong Kong and China Gas Company (Towngas), Jul 2024 - Aug 2024
