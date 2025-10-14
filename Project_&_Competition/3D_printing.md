@@ -5,4 +5,4 @@
 - Material compared include PLA, TPU, PLA Aero, Wood, STL etc.
 
 
-![3D Printing Study](/assets/images/dbf-render.jpg)
+![3D Printing Study for Honey-Comb Rib](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Rib_Structure_Honeycomb.jpg)
