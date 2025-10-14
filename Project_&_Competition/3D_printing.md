@@ -5,7 +5,7 @@
 - Material compared include PLA, TPU, PLA Aero, Wood, STL etc.
 
 Conceptual Idea and Design:
-![3D Printing Study for Honey-Comb Rib](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Ribs_design.png)
+![Rib structure conceptual design](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Ribs_design.png)
 Honeycomb Structure:
 ![3D Printing Study for Honey-Comb Rib](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Rib_Structure_Honeycomb.jpg)
 
