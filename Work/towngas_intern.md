@@ -9,4 +9,4 @@
 [Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/towngas_intern.md)
 
 
-![Towngas Promotion Booth](/assets/images/towngas-promotion-booth.jpg)
+![Towngas Promotion Booth](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/towngas-promotion.jpg)
