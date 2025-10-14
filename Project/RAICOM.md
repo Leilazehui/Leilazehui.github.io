@@ -7,4 +7,4 @@
 - Controlled the robotic arm Programed robotic arm for movement interruption with Generative AI
 
 
-![RAICOM_Robotic Arm Challenge](/assets/images/dbf-render.jpg)
+![RAICOM_Robotic Arm Challenge](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/RAICOM.jpg)
