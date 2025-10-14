@@ -16,3 +16,6 @@ My first workshop organised in this team, fall 2024. I was introducing our team,
 
 I was introducing Ribs design on SolidWorks and this is one of the participants' progress
 ![Workshop progress](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Participants_learning_SW.jpg)
+
+I was conducting a recruitment talk for my team in Fall 2025
+![Recruitment talk](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Team_Recruitment_Talk.jpg)
