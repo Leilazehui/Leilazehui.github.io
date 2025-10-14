@@ -1,18 +1,18 @@
-### MBSE: Model-Based System Engineering on Coursera
+### MBSE: Model-Based System Engineering on Coursera, Sept 2025
 - Offered by University at Buffalo and the state University of New York
 Understand fundamentals of MBSE and common models adopted by companies to enhance performance in all stages of product design, manufacturing, verification and validation etc
 - Gained more insight in pitching
   
 [MBSE render](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/MBSE.pdf)
 
-### MATLAB: Matlab-Onramp training online course
+### MATLAB: Matlab-Onramp training online course, Nov 2024
 - Learn about fundamentals of MATLAB usage, inclulding data analysis, graph plotting, and currently working on solving coding challenges on MATLAB
 
 [MATLAB Course](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/MATLAB.pdf)
 
-### Hong Kong Insitute of Engineers: Student Member
+### Hong Kong Insitute of Engineers: Student Member, 2023
 
-### Institute of Mechanical Engineering, Hong Kong: Young member 
+### Institute of Mechanical Engineering, Hong Kong: Young member, 2023 
 
 ### The 1st Hong Kong National Aerospace Knowledge Competition, 2022
 
