@@ -10,3 +10,6 @@ Understand fundamentals of MBSE and common models adopted by companies to enhanc
 
 ![MATLAB Course](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/MATLAB.pdf)
 
+### Hong Kong Insitute of Engineers: Student Member
+
+### Institute of Mechanical Engineering, Hong Kong: Young member 
