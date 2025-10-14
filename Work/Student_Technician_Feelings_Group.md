@@ -6,4 +6,4 @@
 - Performed literature study, research and market study for Radar hardware systems medical device development in for tracking health conditions.
 - Gained experience in camera development using electronic modules, such as Raspberry Pi, LAN network and camera module.
 
-![Feelings Group](/assets/images/feelingsgroup.jpg)
+![Designed and 3D printing of company logo](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/3D_Printing_Company_Logo.jpg)
