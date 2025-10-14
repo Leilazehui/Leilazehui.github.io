@@ -5,7 +5,7 @@
 **Skills:** I assisted in the crowd control on the first day, and learnt about basic AI application on the second day using some online tools, such as Orange [Orange AI](https://orangedatamining.com), Teachable Machine [Teachable Machine](https://teachablemachine.withgoogle.com/) etc, where we can learn AI with ease
 I also learnt about some basics of object and movement recognition using the program developed by engineers in Intel Center.
 
-[Learning]
+![Learning](
 
-[Photo in Intel center](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Intel_helper_day.jpg)
+![Photo in Intel center](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Intel_helper_day.jpg)
 
