@@ -37,6 +37,9 @@ Hi, this is Leila. I am a mechanical engienering student studying in the Univers
 
 [More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/SRA.md)
 
+### Intel center visit helper, June 2025
+[More](
+
 ### Here are my project experiences:
 ### DBF Aircraft Design
 
