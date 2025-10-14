@@ -9,3 +9,6 @@
 
 A selfie with one of the staff from Towngas during the promotion day. The event is held in the conventional center in Wanchai, Hong Kong, Summer 2024, and various companies who aim on green energy and rennovative product held their booth in the venue.
 ![Towngas Promotion Booth](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/towngas-promotion.jpg)
+
+I was introducing company's product and also providing the souvenir to the visitor.
+![Towngas Booth Helper](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Towngas_Booth_Helper.jpg)
