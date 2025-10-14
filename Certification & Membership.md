@@ -20,4 +20,4 @@ Understand fundamentals of MBSE and common models adopted by companies to enhanc
 - Received Champion in Public group, with certificate, plant seeds from space, and "Zhurung" Mars rover model as prizes.
 ![Prizes](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/cert_%26_prize.jpg)
 
-![Photo](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/cert_%26_prize.jpg)
+[Ceremony](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/photo_at_ceremony.jpg)
