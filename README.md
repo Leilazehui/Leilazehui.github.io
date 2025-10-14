@@ -21,7 +21,7 @@ Hi, this is Leila. I am a mechanical engienering student studying in the Univers
 **Shorts:** Worked in a startup company and conducted literature study and market research on Radar system for Medical Device, gained basic experience in Raspberry Pi project
 
 **Skills:** SolidWorks, Literature study and market research, Raspberry Pi, Linux, Bush (beginner)
-[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/Feelings_Group.md)
+[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/Student_Technician_Feelings_Group.md)
 
 
 ### Part-Time Temporary Student Research Assistant in The University of Hong Kong, Sept 2025 til now
