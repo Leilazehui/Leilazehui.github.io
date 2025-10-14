@@ -1,4 +1,4 @@
-### Part-Time Temporary Student Research Assistant
+### Part-Time Temporary Student Research Assistant, Sept 2025 - now
 
 **Organization**: The University of Hong Kong
 
