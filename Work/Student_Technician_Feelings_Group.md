@@ -1,4 +1,4 @@
-### Student Technician - Hardware team in Feelings Group
+### Student Technician - Hardware team in Feelings Group, Dec 2024 - Jan 2025
 
 **Company**: A startup in Hong Kong Science And Technology Park and NVIDIA Incubation Hub
 
