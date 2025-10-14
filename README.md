@@ -85,7 +85,7 @@ Hi, this is Leila. I am a mechanical engienering student studying in the Univers
 **Role:** Mechanical and Electrical Engineer
 [More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/WeGoAlgae.md)
 
-### My certification & Award:
+### My certification & Membership:
 
 [More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Certification%20%26%20Membership.md)
 
