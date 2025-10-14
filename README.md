@@ -77,6 +77,10 @@ Hi, this is Leila. I am a mechanical engienering student studying in the Univers
 
 [Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/transmission_unit.md)
 
+### WeGoAlgae
+
+**Role:** Mechanical and Electrical Engineer
+
 
 ### My certification & Award:
 
