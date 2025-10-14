@@ -13,4 +13,4 @@ Our team had to determine the scenarios (background information), conceptual des
 - Bearing calculation
 - Key & Keyseats design, calculation, model design, landscape drawing and market research
 
-[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/MECH3427_Group19_2025_Group%20Report.pdf)
+[Report](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/MECH3427_Group19_2025_Group%20Report.pdf)
