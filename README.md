@@ -28,7 +28,7 @@ Hi, this is Leila. I am recording my academic projects, work experience and inte
 
 **Role:** Team Captain
 
-**Tools:** SolidWorks, XFLR5, ANSYS, 3D Printing, 
+**Skills:** SolidWorks, XFLR5, ANSYS, 3D Printing, 
 
 **Short:** Designed a lightweight trainer aircraft, performed aerodynamic analysis and designed attachment and deployment mechanism for banner towing event.
 
@@ -42,6 +42,14 @@ Hi, this is Leila. I am recording my academic projects, work experience and inte
 ### 3D Printing study
 
 ### Power transmission Unit Design for Mining Industry Scenario
+
+**Short:**: Designed a power transmission unit for mining industry scenario. The transmission unit is able to carry tons of mining materials on a conveyor belt from one location to another location. 
+
+**My role:** Team representative
+
+**Skills**: SolidWorks, Market Research, Literature Study
+
+[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/transmission_unit.md)
 
 
 ### Here are my certification & Award:
