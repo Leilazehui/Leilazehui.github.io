@@ -18,4 +18,4 @@ Understand fundamentals of MBSE and common models adopted by companies to enhanc
 
 **Discription:** Questions include basics of aerospace development in China and the world and two open questions about the recycling plan on the "Dong Fang Yi Hao" (the first satellite launched by China), and Thoughts on Base developemnt on Moon.
 - Received Champion in Public group, with certificate, plant seeds from space, and "Zhurung" Mars rover model as prizes.
-![Prizes]()
+![Prizes](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/cert_%26_prize.jpg)
