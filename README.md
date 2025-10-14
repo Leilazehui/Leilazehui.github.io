@@ -57,7 +57,7 @@ Hi, this is Leila. I am a mechanical engienering student studying in the Univers
 
 **Shorts:** Planned and organized academic workshops relating to aerodynamic knowledge and aircraft design, including XFlr5, SolidWorks, Avionics, Manufacturing and Talks. Communicate with faculty, teammates to hold booth during public events. 
 
-[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/Educational_events.md)
+[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/DBF%20Educational_events.md)
 
 ![DBF Workshops](/assets/images/dbf-Education.jpg)
 
