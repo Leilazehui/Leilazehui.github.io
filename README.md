@@ -4,26 +4,36 @@
 
 Hi, this is Leila. I am a mechanical engienering student studying in the University of Hong Kong. Other than my major, I am particularly interested in space exploration, extraterrestrial life and astrology. In the mean time, I like star-gazing and hiking. Currently, I am learning CFD, Programming and AI, hardware development for my final year project and side-projects as well. Feel free to connect and chat through leilazhao853@gmail.com
 
-### Here are my Work experience:
-### Summer Intern in The Hong Kong and China Gas Company (Towngas)
+### Here are my Work experiences:
+### Summer Intern in The Hong Kong and China Gas Company (Towngas), Jul 2024 - Aug 2024
+**Role:** Summer Intern
 
-**Job description**:
-[Repository](https://github.com/Leilazehui/Leilazehui.github.io/Work experience/towngas-intern.md)
+**Shorts:** Assist my supervisor and engineer in the team on beta app testing, manual editing and market research in Residential Product Development Department
 
+**Skills:** Beta-app testing, manual editing
 
-![Towngas Promotion Booth](/assets/images/towngas-promotion-booth.jpg)
+[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/towngas_intern.md)
 
 
 ### Winter Intern: Student Technician in Feelings Group, Dec 2024 - Jan 2025 
-[Repository](https://github.com/Leilazehui/student)
+**Role:** Winter intern-Stuent Technican in Hardware Team
 
+**Shorts:** Worked in a startup company and conducted literature study and market research on Radar system for Medical Device, gained basic experience in Raspberry Pi project
 
-![Towngas Promotion Booth](/assets/images/towngas-promotion-booth.jpg)
+**Skills:** SolidWorks, Literature study and market research, Raspberry Pi, Linux, Bush (beginner)
+[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/Feelings_Group.md)
+
 
 ### Part-Time Temporary Student Research Assistant in The University of Hong Kong, Sept 2025 til now
+**Role:** Part-time student research assistant 
 
+**Skills:** Communication, Mentoring
 
-### Here are my project experience:
+**Shorts:** Assist lecturer in workshop classes to guide students on their robotic arm projects, provide feedbacks to lecturers about the workshops. 
+
+[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/SRA.md)
+
+### Here are my project experiences:
 ### DBF Aircraft Design
 
 **Role:** Team Captain
@@ -37,9 +47,29 @@ Hi, this is Leila. I am a mechanical engienering student studying in the Univers
 
 ![DBF render](/assets/images/dbf-render.jpg)
 
+
 ### DBF Adminstrative Management
 
+**Role:** Admin Leader
+
+**Skills:** Event organization, Poster design and team promotion, Team management, Collaboration and Communication
+
+**Shorts:** Planned and organized academic workshops relating to aerodynamic knowledge and aircraft design, including XFlr5, SolidWorks, Avionics, Manufacturing and Talks. Communicate with faculty, teammates to hold booth during public events. 
+
+[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/Educational_events.md)
+
+![DBF Workshops](/assets/images/dbf-Education.jpg)
+
+
 ### 3D Printing study
+
+**Short:** Designed ribs structures and manufacture them using different 3D printing materials and performed material comparison
+
+**Skills:** SolidWorks, 3D printing (Bambu Lab)
+
+[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/3D_printing.md)
+
+![3D Printing Study](/assets/images/dbf-render.jpg)
 
 ### Power transmission Unit Design for Mining Industry Scenario
 
@@ -47,7 +77,7 @@ Hi, this is Leila. I am a mechanical engienering student studying in the Univers
 
 **My role:** Team representative
 
-**Skills**: SolidWorks, Market Research, Literature Study
+**Skills:** SolidWorks, Market Research, Literature Study
 
 [Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/transmission_unit.md)
 
