@@ -14,6 +14,6 @@ I was a non-final-year member in AIAA team 2025, where I assisted in plane manuf
 ![Competition Group Photo](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Team_helper_aiaa_2025.jpg)
 
 CFD Simulation on Xflr5
-![CFD study]
+![CFD study](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/CFD_Analysis_on_Xflr5.png)
 
 As the AIAA 2026 competition has not started yet, the detail for the aircraft design and photos will be kept confidential for now.
