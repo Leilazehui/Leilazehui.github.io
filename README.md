@@ -5,7 +5,7 @@
 Hi, this is Leila. I am a mechanical engienering student studying in the University of Hong Kong. Other than my major, I am particularly interested in space exploration, extraterrestrial life and astrology. In the mean time, I like star-gazing and hiking. Currently, I am learning CFD, Programming and AI, hardware development for my final year project and side-projects as well. Feel free to connect and chat through leilazhao853@gmail.com
 ### Here are my project porfolio:
 
-[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Project_porfolio_Zhao%20Zehui.pdf)
+[More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Project_porfolio_Zhao%20Zehui.pdf)
 
 ### Here are my Work experiences:
 ### Summer Intern in The Hong Kong and China Gas Company (Towngas), Jul 2024 - Aug 2024
@@ -15,7 +15,7 @@ Hi, this is Leila. I am a mechanical engienering student studying in the Univers
 
 **Skills:** Beta-app testing, manual editing
 
-[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/towngas_intern.md)
+[More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/towngas_intern.md)
 
 
 ### Winter Intern: Student Technician in Feelings Group, Dec 2024 - Jan 2025 
@@ -25,7 +25,7 @@ Hi, this is Leila. I am a mechanical engienering student studying in the Univers
 
 **Skills:** SolidWorks, Literature study and market research, Raspberry Pi, Linux, Bush (beginner)
 
-[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/Student_Technician_Feelings_Group.md)
+[More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/Student_Technician_Feelings_Group.md)
 
 
 ### Part-Time Temporary Student Research Assistant in The University of Hong Kong, Sept 2025 til now
@@ -35,7 +35,7 @@ Hi, this is Leila. I am a mechanical engienering student studying in the Univers
 
 **Shorts:** Assist lecturer in workshop classes to guide students on their robotic arm projects, provide feedbacks to lecturers about the workshops. 
 
-[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/SRA.md)
+[More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/SRA.md)
 
 ### Here are my project experiences:
 ### DBF Aircraft Design
@@ -46,7 +46,7 @@ Hi, this is Leila. I am a mechanical engienering student studying in the Univers
 
 **Short:** Designed a lightweight trainer aircraft, performed aerodynamic analysis and designed attachment and deployment mechanism for banner towing event.
 
-[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/DBF_AIAA)
+[More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/DBF_AIAA)
 
 
 ### DBF Adminstrative Management
@@ -57,7 +57,7 @@ Hi, this is Leila. I am a mechanical engienering student studying in the Univers
 
 **Shorts:** Planned and organized academic workshops relating to aerodynamic knowledge and aircraft design, including XFlr5, SolidWorks, Avionics, Manufacturing and Talks. Communicate with faculty, teammates to hold booth during public events. 
 
-[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/DBF%20Educational_events.md)
+[More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/DBF%20Educational_events.md)
 
 ### 3D Printing study
 
@@ -65,7 +65,7 @@ Hi, this is Leila. I am a mechanical engienering student studying in the Univers
 
 **Skills:** SolidWorks, 3D printing (Bambu Lab)
 
-[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/3D_printing.md)
+[More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/3D_printing.md)
 
 ### Power transmission Unit Design for Mining Industry Scenario
 
@@ -75,14 +75,14 @@ Hi, this is Leila. I am a mechanical engienering student studying in the Univers
 
 **Skills:** SolidWorks, Market Research, Literature Study
 
-[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/transmission_unit.md)
+[More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/transmission_unit.md)
 
 ### WeGoAlgae
 
 **Role:** Mechanical and Electrical Engineer
-
+[More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/WeGoAlgae.md)
 
 ### My certification & Award:
 
-[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Certification%20%26%20Membership.md)
+[More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Certification%20%26%20Membership.md)
 
