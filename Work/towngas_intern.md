@@ -17,3 +17,4 @@ All intern in towngas company were divided into several groups to conduct small 
 ![Graduation Certificate](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/A_group_photo_with_intern_project_teammates.jpg)
 
 I also had a photo with Mr Simon Ngo, head of engineering, Hong Kong Utility in the Towngas Company.
+![Photo with Mr Ngo](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Photo_with_Mr%20Ngo_Head_Engineering_Hong_Kong_Utility.jpg)
