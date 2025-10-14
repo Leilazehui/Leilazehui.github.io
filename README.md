@@ -32,7 +32,7 @@ Hi, this is Leila. I am a mechanical engienering student studying in the Univers
 
 **Shorts:** Assist lecturer in workshop classes to guide students on their robotic arm projects, provide feedbacks to lecturers about the workshops. 
 
-[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/SRA.md)
+[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/SRA.md)
 
 ### Here are my project experiences:
 ### DBF Aircraft Design
