@@ -10,3 +10,6 @@
 
 Team promotion booth in Fall 2024
 ![Booth 2024](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/DBF_Booth.jpg)
+
+My first workshop organised in this team, fall 2024. I was introducing our team, basic aerodynamic knowledge and also bascis of SolidWorks.
+![First workshop 2024](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Workshop_holding.jpg)
