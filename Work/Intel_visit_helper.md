@@ -1,4 +1,4 @@
-### Part-Time Helper of school's event for Intel visit, July 2025
+### Part-Time Helper of school's event for Intel visit, June 2025
 
 **Description:** This event is organization by the University of Hong Kong which provided one-day introduction of AI application in Secondary School and a visit of Intel center in Shenzhen. The participatns are teachers from some Secondary schools in Hong Kong.
 
