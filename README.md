@@ -49,9 +49,6 @@ Hi, this is Leila. I am a mechanical engienering student studying in the Univers
 [Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/DBF_AIAA)
 
 
-![DBF render](/assets/images/dbf-render.jpg)
-
-
 ### DBF Adminstrative Management
 
 **Role:** Admin Leader
@@ -62,9 +59,6 @@ Hi, this is Leila. I am a mechanical engienering student studying in the Univers
 
 [Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/DBF%20Educational_events.md)
 
-![DBF Workshops](/assets/images/dbf-Education.jpg)
-
-
 ### 3D Printing study
 
 **Short:** Designed ribs structures and manufacture them using different 3D printing materials and performed material comparison
@@ -72,8 +66,6 @@ Hi, this is Leila. I am a mechanical engienering student studying in the Univers
 **Skills:** SolidWorks, 3D printing (Bambu Lab)
 
 [Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/3D_printing.md)
-
-![3D Printing Study](/assets/images/dbf-render.jpg)
 
 ### Power transmission Unit Design for Mining Industry Scenario
 
@@ -87,3 +79,6 @@ Hi, this is Leila. I am a mechanical engienering student studying in the Univers
 
 
 ### My certification & Award:
+
+[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/transmission_unit.md)
+
