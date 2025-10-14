@@ -7,3 +7,5 @@ I also learnt about some basics of object and movement recognition using the pro
 
 [Learning]
 
+[Photo in Intel center](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Intel_helper_day.jpg)
+
