@@ -3,8 +3,4 @@
 **Organization**: The University of Hong Kong
 
 **Job Description**:
-
-[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/SRA.md)
-
-
-![SRA](/assets/images/sra.jpg)
+- Undertaking role as a student assistant in course workshops which involve workshop mentoring on robotic arm control, design, and provide feedback for lecturers on behalf of the teaching content
