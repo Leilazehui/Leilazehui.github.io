@@ -1,4 +1,4 @@
-### DBF Aircraft Design
+### DBF Aircraft Design, Jul 2024 - Now
 
 **Role:** Team Captain/Chief Engieneer/Aerodynamic Lead
 
@@ -12,5 +12,8 @@
 
 I was a non-final-year member in AIAA team 2025, where I assisted in plane manufacturing and logisitcs during the competition site in US in April 2025
 ![Competition Group Photo](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Team_helper_aiaa_2025.jpg)
+
+CFD Simulation on Xflr5
+![CFD study]
 
 As the AIAA 2026 competition has not started yet, the detail for the aircraft design and photos will be kept confidential for now.
