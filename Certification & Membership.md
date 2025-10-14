@@ -8,5 +8,5 @@ Understand fundamentals of MBSE and common models adopted by companies to enhanc
 ### MATLAB: Matlab-Onramp training online course
 - Learn about fundamentals of MATLAB usage, inclulding data analysis, graph plotting, and currently working on solving coding challenges on MATLAB
 
-![MBSE render](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/MBSE.pdf)
+![MBSE render](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/MATLAB.pdf)
 
