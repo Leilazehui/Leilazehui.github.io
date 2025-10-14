@@ -13,3 +13,6 @@ Team promotion booth in Fall 2024
 
 My first workshop organised in this team, fall 2024. I was introducing our team, basic aerodynamic knowledge and also bascis of SolidWorks.
 ![First workshop 2024](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Workshop_holding.jpg)
+
+I was introducing Ribs design on SolidWorks and this is one of the participants' progress
+![Workshop progress](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Participants_learning_SW.jpg)
