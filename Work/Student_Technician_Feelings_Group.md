@@ -7,7 +7,8 @@
 - Gained experience in camera development using electronic modules, such as Raspberry Pi, LAN network and camera module.
 
 A brief literature study and market research on the radar system and AI CCTV
-![Radar system & AI CCTV](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Radar_systems_%26_AI_CCTV_Study.pdf)
+
+![Radar system & AI CCTV](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Radar%20systems%20%26%20AI%20CCTV_Zhao%20Zehui.pdf)
 
 
 ![Designed and 3D printing of company logo](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/3D_Printing_Company_Logo.jpg)
