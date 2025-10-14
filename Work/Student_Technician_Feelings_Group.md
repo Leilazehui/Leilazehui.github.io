@@ -11,3 +11,6 @@ A brief literature study and market research on the radar system and AI CCTV
 
 
 ![Designed and 3D printing of company logo](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/3D_Printing_Company_Logo.jpg)
+
+I first tried normal camera testing, then I turned to using camera IMX500 module on Raspberry pi for testing
+[Nomal camera testing](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/camera_testing.jpg)
