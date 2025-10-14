@@ -12,3 +12,5 @@ Our team had to determine the scenarios (background information), conceptual des
 - Shaft market research
 - Bearing calculation
 - Key & Keyseats design, calculation, model design, landscape drawing and market research
+
+[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/SRA.md)
