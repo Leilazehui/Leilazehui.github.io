@@ -12,7 +12,7 @@ Hi, this is Leila. I am a mechanical engienering student studying in the Univers
 
 **Skills:** Beta-app testing, manual editing
 
-[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/towngas_intern.md)
+[Repository](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/towngas_intern.md)
 
 
 ### Winter Intern: Student Technician in Feelings Group, Dec 2024 - Jan 2025 
