@@ -4,7 +4,6 @@
 Hi, this is Leila. I am a mechanical engineering student studying in the University of Hong Kong. Other than my major, I am particularly interested in space exploration, extraterrestrial life and astrology. In the mean time, I like star-gazing and hiking. Currently, I am learning CFD, Programming and AI, hardware development for my final year project and side-projects as well. Feel free to connect and chat through leilazhao853@gmail.com
 ### Here are my project porfolio & CV:
 
-[Proj_Porfolio](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Project_porfolio_Zhao%20Zehui.pdf); 
 [CV](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Zhao_Zehui_CV.pdf)
 
 ### Here are my Work experiences:
