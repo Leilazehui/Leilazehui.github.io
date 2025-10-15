@@ -1,6 +1,6 @@
 ### DBF Aircraft Design, Jul 2024 - Now
 
-**Role:** Team Captain/Chief Engieneer/Aerodynamic Lead
+**Role:** Team Leader/Chief Engieneer/Aerodynamic Lead
 
 **Tools:** SolidWorks, XFLR5, ANSYS, 3D Printing, Communication
 
