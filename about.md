@@ -19,5 +19,5 @@ Integration of Mechanical engineering and AI (still planning)
 - LinkedIn: https://www.linkedin.com/in/zehui-zhao
 - Phone No.: +852 9731 0803
 
-###Leisure Events:
+### Leisure Events:
 - Music, camping, Hiking, Snorkelling and meet new friends at Uni!
