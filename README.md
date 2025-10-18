@@ -5,7 +5,7 @@ Hi, this is Leila. I am a mechanical engineering student studying in the Univers
 ### Here are my CV:
 
 [CV](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Zhao_Zehui_CV.pdf)
-
+[project portfolio](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Project_porfolio_Zhao%20Zehui.pdf)
 ### Here are my Work experiences:
 ### Summer Intern in The Hong Kong and China Gas Company (Towngas), Jul 2024 - Aug 2024
 **Role:** Summer Intern
