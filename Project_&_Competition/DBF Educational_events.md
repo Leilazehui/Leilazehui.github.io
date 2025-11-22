@@ -1,6 +1,6 @@
 ### DBF Administrative Work, Sept 2024 - now
 
-**Role:** Committee in Fall, 2024, Adminstrative Leader in 2025
+**Role:** Administrative leader from Fall 2024 to now
 
 **Description:** 
  - Organize and hold events such as recruitment talk and booth, SolidWorks workshop to teach participants about the use of SolidWorks, and stimulate their interests in 3D model drawing and model aircraft, and to promote HKU DBF Team to all major students.
