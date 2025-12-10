@@ -1,3 +1,7 @@
+### Cathay City: Early Career Experience Day 2025
+- A 1-hour mock hackathon in CX city which I worked with 3 other students from other universities to come up with an 800K project proposal.
+- Oversaw product design and market research.
+[Event Photo]
 ### MBSE: Model-Based System Engineering on Coursera, Sept 2025
 - Offered by University at Buffalo and the state University of New York
 Understand fundamentals of MBSE and common models adopted by companies to enhance performance in all stages of product design, manufacturing, verification and validation etc
