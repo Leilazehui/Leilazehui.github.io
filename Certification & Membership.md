@@ -15,7 +15,7 @@ Understand fundamentals of MBSE and common models adopted by companies to enhanc
 ### Institute of Mechanical Engineering, Hong Kong: Young member, 2023 
 
 ### Hong Kong Techathon 2023
-**Discription:** Designed an app interface for educational purposes in subjects related to Astronomy in group
+- Designed an app interface for educational purposes in subjects related to Astronomy in group
 
 [Techathon2023](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Techathon2023.pdf)
 ### The 1st Hong Kong National Aerospace Knowledge Competition, 2022
