@@ -10,7 +10,7 @@ About me: Leila Zhao
 
 
 ## Interests
-Aerospace: Introductory Rocket systems; human factors, CFD, CAD design
+Aerospace: Space systems(still learning); human factors, CFD, CAD design
 Integration of Mechanical engineering and AI (still planning)
 
 
