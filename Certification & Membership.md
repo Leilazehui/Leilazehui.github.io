@@ -16,7 +16,8 @@ Understand fundamentals of MBSE and common models adopted by companies to enhanc
 
 ### Hong Kong Techathon 2023
 **Discription:** Designed an app interface for educational purposes in subjects related to Astronomy in group
-![Techathon2023](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Techathon2023.pdf)
+
+[Techathon2023](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Techathon2023.pdf)
 ### The 1st Hong Kong National Aerospace Knowledge Competition, 2022
 
 **Discription:** Questions include basics of aerospace development in China and the world and two open questions about the recycling plan on the "Dong Fang Yi Hao" (the first satellite launched by China), and Thoughts on Base development on Moon.
