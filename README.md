@@ -31,9 +31,9 @@ Hi, this is Leila. I am a mechanical engineering student studying in the Univers
 ### Part-Time Temporary Student Research Assistant in The University of Hong Kong, Sept - Nov 2025 
 **Role:** Part-time student research assistant 
 
-**Skills:** Communication, Mentoring
-
 **Shorts:** Assist lecturer in workshop classes to guide students on their robotic arm projects, provide feedbacks to lecturers about the workshops. 
+
+**Skills:** Communication, Mentoring
 
 [More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/SRA.md)
 
@@ -44,6 +44,8 @@ Hi, this is Leila. I am a mechanical engineering student studying in the Univers
 **Role:** Wintern Intern in Smart Manufacturing Division
 
 **Shorts**: Intern who assist supervisors regarding both business and engineering tasks
+
+**Skills:** Market and Regulation Research 
 
 ### Here are my project experiences:
 ### DBF Aircraft Design
