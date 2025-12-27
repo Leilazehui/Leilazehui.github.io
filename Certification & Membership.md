@@ -3,6 +3,9 @@
 - Oversaw product design and market research.
   
 ![Event Photo](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/CX_career.jpg) [Event Highlight](https://www.linkedin.com/posts/billy-poon-109b5a105_cathay-movebeyond-makeyourcareermove-activity-7375868331058319360-Iqv6?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD23tT4BoWV4G3h-5IYy6HmGhoF5z375C-I)
+
+### Royal Aeronautical Society (HK) Student Member 2025
+
 ### MBSE: Model-Based System Engineering on Coursera, Sept 2025
 - Offered by University at Buffalo and the state University of New York
 Understand fundamentals of MBSE and common models adopted by companies to enhance performance in all stages of product design, manufacturing, verification and validation etc
