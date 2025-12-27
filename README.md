@@ -28,7 +28,7 @@ Hi, this is Leila. I am a mechanical engineering student studying in the Univers
 [More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/Student_Technician_Feelings_Group.md)
 
 
-### Part-Time Temporary Student Research Assistant in The University of Hong Kong, Sept 2025 til now
+### Part-Time Temporary Student Research Assistant in The University of Hong Kong, Sept - Nov 2025 
 **Role:** Part-time student research assistant 
 
 **Skills:** Communication, Mentoring
@@ -39,6 +39,11 @@ Hi, this is Leila. I am a mechanical engineering student studying in the Univers
 
 ### Intel center visit helper, June 2025
 [More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/Intel_visit_helper.md)
+
+### Winter Intern in Hong Kong Productivity Council, Dec 2025 til now
+**Role:** Wintern Intern in Smart Manufacturing Division
+
+**Shorts**: Intern who assist supervisors regarding both business and engineering tasks
 
 ### Here are my project experiences:
 ### DBF Aircraft Design
