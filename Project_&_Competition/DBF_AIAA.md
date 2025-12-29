@@ -7,7 +7,7 @@
 ### Description:
 #### Team Captain: 
 - Oversee the team progress, schedule meeting with faculty supervisor, recuit members and manage required documents for competition application.
-- Secured 2 industry sponsors and 1 engineering company sponsor for the projects (Collaborate with Ansys, L'Voyage and the Safety Collaborative)
+- Secured 2 aviation industry sponsors and 1 engineering company sponsor for the projects (Collaborate with Ansys, L'Voyage and the Safety Collaborative)
 #### Chief Engineer: 
 - Care for teammates' individual parts' study, provide suggestions and support for teammates' design and personal situation to make sure the progress is on the track.
 #### Aerodynamic Lead: 
