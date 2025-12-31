@@ -6,5 +6,6 @@
 - Broke down the structure of the algorithm for automated and semi-automated missions.
 - Controlled the robotic arm Programed robotic arm for movement interruption with Generative AI
 
+**Skills**: GenAI, Algorithm Understanding, Roboflow, ROS 1
 
 ![RAICOM_Robotic Arm Challenge](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/RAICOM.jpg)
