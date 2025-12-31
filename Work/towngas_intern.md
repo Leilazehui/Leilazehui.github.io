@@ -1,5 +1,7 @@
 ### Summer Intern in The Hong Kong and China Gas Company (Towngas), Jul - Aug 2024
 
+**Department**: Residential Product Development
+
 **Job description**:
 - Contributed to the development of IoT gas appliances. Identified potential problems in functional tests of gas appliances and provided effective suggestions to enhance user-friendliness of the mobile app interface for boss.
 - Assisted in the assessment of gas appliance accessories such as flexible hose and gas malleable iron fittings.
