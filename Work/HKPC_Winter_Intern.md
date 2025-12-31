@@ -1,8 +1,8 @@
-**Job Tile**: HKPC Winter Intern in Smart Manufacturing Division
+## Job Tile ##: HKPC Winter Intern in Smart Manufacturing Division
 
-**Duration**: 22 Dec 2025 - now
+### Duration ###: 22 Dec 2025 - now
 
-**Job Description**: 
+### Job Description ###: 
 
 #### Fashion, Apparel and Industry Development ####
 
