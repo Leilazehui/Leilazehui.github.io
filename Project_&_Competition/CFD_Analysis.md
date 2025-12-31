@@ -4,5 +4,5 @@
 
 **Tools:** SolidWorks, Ansys
 
-![CFD]
+![CFD](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Vel-aircraft.png)
 
