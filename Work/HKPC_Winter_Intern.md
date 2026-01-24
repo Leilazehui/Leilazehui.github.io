@@ -7,7 +7,7 @@
 **Fashion, Apparel and Industry Development**
 
 - Conducted cross-regional research on US, EU, and China textile recycling regulations and international recycling standards, developing a practical ESG toolkit for Hong Kong fashion enterprises to strengthen sustainability awareness, compliance readiness, and long-term circular innovation.
-- Prepared surveys for applicable artificial intelligence tools in footwear industry
+- Prepared surveys for applicable artificial intelligence tools in footwear industry which collects essential information about the acceptance of AI application in footwear Enterprises for HKPC.
 
 **Smart Machinery and Equipment**
 
