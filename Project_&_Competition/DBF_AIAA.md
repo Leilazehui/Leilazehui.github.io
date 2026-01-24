@@ -10,6 +10,7 @@
 - Secured 2 aviation industry sponsors and 1 engineering company sponsor for the projects (Collaborate with Ansys, L'Voyage and the Safety Collaborative)
 #### Chief Engineer: 
 - Care for teammates' individual parts' study, provide suggestions and support for teammates' design and personal situation to make sure the progress is on the track.
+- Performed aircraft performance analysis to simulate the highest score possible case in all missions for the team to achieve using MATLAB.
 #### Aerodynamic Lead: 
 - In charge of Aerodynamic Analysis which include literature study and calculation of main wing, Conducting CFD simulation for airfoils, 3D wing model and the model aircraft on Xflr5 and Ansys.
 #### Mechanism design:
