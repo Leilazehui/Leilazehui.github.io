@@ -8,3 +8,8 @@
 
 - Conducted cross-regional research on US, EU, and China textile recycling regulations and international recycling standards, developing a practical ESG toolkit for Hong Kong fashion enterprises to strengthen sustainability awareness, compliance readiness, and long-term circular innovation.
 - Prepared surveys for applicable artificial intelligence tools in footwear industry
+
+**Smart Machinery and Equipment**
+
+- Designed a robotic arm–camera mounting device, applying engineering drawing and GD&T standard for manufacturing.
+- Conducting a thermographic camera project to identify hidden defects on different materials and report the abnormal phenomenon to boss.
