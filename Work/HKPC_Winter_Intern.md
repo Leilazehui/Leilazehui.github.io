@@ -23,5 +23,8 @@
 - In charge of the tech part: designed the CAD model, components and sensors to be used in the project, including thermographic camera, non-contact ultra-sonic sensor, etc; proposed the data transmission method using cloud-based (IoT) database, gorund control station, mechanical data for the AI model training:
     - Utilize the mechanical data from FEA on SolidWorks to simulate the stress and displacement on the structure due to external force which will be one of the data source for AI model training
 
-
+Drone Model Design:
 ![HKPC_Drone](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/hkpc-drone.jpg)
+
+Structure simulation:
+![Displacement changes](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/HKOC-structure-Static%201-Displacement-Displacement1.jpg)
