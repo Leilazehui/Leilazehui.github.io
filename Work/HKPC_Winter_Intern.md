@@ -13,3 +13,9 @@
 
 - Designed a robotic arm–camera mounting device, applying engineering drawing and GD&T standard for manufacturing.
 - Conducting a thermographic camera project to identify hidden defects on different materials and report the abnormal phenomenon to boss.
+
+**Intern Dare-To-Try Project**
+
+- Designed a project topic "Detecting Hidden Defect of Bulding using Drone Indoor Inspection with integration of AI", for a real-time health monitoring of the building, digital twin integration of the buiilding structure.
+- Constructed the pain point, background and target client for the project
+- Designed the CAD model, comoponents and sensors to be used in the project, including thermographic camera, non-contact ultra-sonic sensor, etc; considered the data transmission method, mechanical data for the AI model training
