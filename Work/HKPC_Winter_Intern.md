@@ -18,4 +18,4 @@
 
 - Designed a project topic "Detecting Hidden Defect of Bulding using Drone Indoor Inspection with integration of AI", for a real-time health monitoring of the building, digital twin integration of the buiilding structure.
 - Constructed the pain point, background and target client for the project
-- Designed the CAD model, comoponents and sensors to be used in the project, including thermographic camera, non-contact ultra-sonic sensor, etc; considered the data transmission method, mechanical data for the AI model training
+- In charge of the tech part: designed the CAD model, comoponents and sensors to be used in the project, including thermographic camera, non-contact ultra-sonic sensor, etc; designed the data transmission method using cloud-based (IoT) database, gorund control station, mechanical data for the AI model training
