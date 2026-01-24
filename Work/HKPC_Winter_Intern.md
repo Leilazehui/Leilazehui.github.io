@@ -28,3 +28,5 @@ Drone Model Design:
 
 Structure simulation:
 ![Displacement changes](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/HKOC-structure-Static%201-Displacement-Displacement1.jpg)
+
+![Strain](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/HKPC-structure-Static%201-Strain-Strain1.jpg)
