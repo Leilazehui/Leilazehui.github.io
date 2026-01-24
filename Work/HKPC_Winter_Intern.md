@@ -32,6 +32,4 @@ Structure simulation:
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/HKPC-structure-Static%201-Strain-Strain1.jpg" width="45%" />
 </p>
 
-![Displacement changes](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/HKOC-structure-Static%201-Displacement-Displacement1.jpg)
 
-![Strain](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/HKPC-structure-Static%201-Strain-Strain1.jpg)
