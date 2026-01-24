@@ -13,7 +13,7 @@
 
 - Designed a robotic arm–camera mounting device, applying engineering drawing and GD&T standard for manufacturing.
 
-![Mounting Device Design](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Mounting-Block3.pdf)
+[Mounting Device Design](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Mounting-Block3.pdf)
 - Conducting a thermographic camera project to identify hidden defects on different materials and report the abnormal phenomenon to boss.
 
 **Intern Dare-To-Try Project**
