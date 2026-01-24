@@ -12,6 +12,8 @@
 **Smart Machinery and Equipment**
 
 - Designed a robotic arm–camera mounting device, applying engineering drawing and GD&T standard for manufacturing.
+
+![Mounting Device Design]()
 - Conducting a thermographic camera project to identify hidden defects on different materials and report the abnormal phenomenon to boss.
 
 **Intern Dare-To-Try Project**
