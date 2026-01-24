@@ -16,7 +16,7 @@
 #### Mechanism design:
 - Banner Attachment and Deployment Mechanism: Design an attchment and deployment mechanism using SolidWorks and 3D Printing for the banner which can be towed and released through remote-control during flight.
 
-I was a non-final-year member in AIAA team 2025, where I assisted in plane manufacturing and logisitcs during the competition site in US in April 2025
+I was a non-final-year member in AIAA team 2025, where I assisted in plane manufacturing and logistics during the competition site in US in April 2025
 ![Competition Group Photo](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Team_helper_aiaa_2025.jpg)
 
 CFD Simulation on XFoil
