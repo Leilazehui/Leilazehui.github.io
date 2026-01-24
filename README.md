@@ -51,7 +51,9 @@ Hi, this is Leila. I am a mechanical engineering student studying in the Univers
 
 **Shorts**: Intern who assist supervisors regarding both business and engineering tasks
 
-**Skills:** Market and Regulation Research 
+**Skills:** 
+*Fashion and Textile Industry*: ESG · Circular Economy · Social Impact · Policy Research · AI Adoption · Industry Innovation
+*Smart Machinery and Equipment*: Engineering Drawing · GD & T · SolidWorks · Thermographic Camera Defect Inspection Project with integration of AI
 
 ### Here are my project experiences:
 ### DBF Aircraft Design
