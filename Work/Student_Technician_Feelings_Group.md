@@ -24,8 +24,6 @@ A brief literature study and market research on the radar system and AI CCTV
 <p align="center">
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/camera_testing.jpg" width="50%"  />
 </p>
-[Radar system & AI CCTV Study](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Radar%20systems%20%26%20AI%20CCTV_Zhao%20Zehui.pdf)
-
 
 A photo showing the rasberry pi I am using. Unfortunately I did not record the whole picture of the setup
 ![Setup1](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/raspberry_pi_camera_testing.jpg)
