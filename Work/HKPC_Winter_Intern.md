@@ -20,7 +20,8 @@
 
 - Designed a project topic "Detecting Hidden Defect of Building using Drone to Perform Indoor Inspection with Integration of AI", for a real-time health monitoring of the building, digital twin integration of the buiilding structure.
 - Constructed the pain point, background and target client for the project
-- In charge of the tech part: designed the CAD model, comoponents and sensors to be used in the project, including thermographic camera, non-contact ultra-sonic sensor, etc; designed the data transmission method using cloud-based (IoT) database, gorund control station, mechanical data for the AI model training
+- In charge of the tech part: designed the CAD model, components and sensors to be used in the project, including thermographic camera, non-contact ultra-sonic sensor, etc; proposed the data transmission method using cloud-based (IoT) database, gorund control station, mechanical data for the AI model training:
+    - Utilize the mechanical data from FEA on SolidWorks to simulate the stress and displacement on the structure due to external force which will be one of the data source for AI model training
 
 
 ![HKPC_Drone](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/hkpc-drone.jpg)
