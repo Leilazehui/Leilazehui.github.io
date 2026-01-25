@@ -15,7 +15,7 @@ Truss Structure:
 Weight comparison
 <p align="center">
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/truss-rib.jpg" width=30%  />
-  <img src="" width=30%  />
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/honey-rib.jpg" width=30%  />
   <img src="" width=30%  />
   
 
