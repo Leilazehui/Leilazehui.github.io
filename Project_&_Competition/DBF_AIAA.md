@@ -26,7 +26,8 @@ CFD Simulation for Aicraft on Xflr5
 ![CFD aircraft](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/CFD_Simulation_on_aicraft.png)
 
 Here are some graphs that I generated on MATLAB regarding the aerodynamic performance of some parts on the aircraft, using the data I acquisited from XFlr5.
-![MATLAB](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/XW25.png)
-![MATLAB2](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/XW25.png)
+<p align-"center">
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/XW25.png" width=45%  />
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/XW25.png" width=45%  />
 
 As the AIAA 2026 competition has not started yet, the detail for the aircraft design and photos will be kept confidential for now.
