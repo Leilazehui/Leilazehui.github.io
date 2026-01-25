@@ -10,7 +10,8 @@
 - Assist my faculty supervisor in conducting interviews to assess yound members' qualifications, exploring more competition opportunities for the teams and planning future society's events.
 
 Team promotion booth in Fall 2024
-![Booth 2024](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/DBF_Booth.jpg)
+<p align="center">
+ <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/DBF_Booth.jpg" width="45%"  />
 
 My first workshop organised in this team, fall 2024. I was introducing our team, basic aerodynamic knowledge and also bascis of SolidWorks.
 ![First workshop 2024](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Workshop_holding.jpg)
