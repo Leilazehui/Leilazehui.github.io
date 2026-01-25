@@ -16,7 +16,8 @@ Weight comparison
 <p align="center">
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/truss-rib.jpg" width=30%  />
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/honey-rib.jpg" width=30%  />
-  <img src="" width=30%  />
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/normal-rib.jpg" width=30%  />
+</p>
   
 
 Result Table of different materials I tested, and eventually it is concluded wooden material is still lighter than all the 3D printing materials tested in this study.
