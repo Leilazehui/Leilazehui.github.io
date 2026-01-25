@@ -8,8 +8,8 @@ Conceptual Idea and Design:
 ![Rib structure conceptual design](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Ribs_design.png)
 Honeycomb Structure:                                Truss Structure:
 <p align="center">
-  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Rib_Structure_Honeycomb.jpg" width=45%  />
-  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Rib_Structure_Truss.jpg" width=45%  />
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Rib_Structure_Honeycomb.jpg" width=35%  />
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Rib_Structure_Truss.jpg" width=35%  />
 </p>
 
 Weight comparison
