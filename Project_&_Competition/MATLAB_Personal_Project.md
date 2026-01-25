@@ -7,5 +7,5 @@
 
 <p align="center">
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/stellar-motion.png" width = 50%  />
-  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Compare-stellar-spectra.png" iwdth=50%  />
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Compare-stellar-spectra.png" width= 50%  />
 </p>
