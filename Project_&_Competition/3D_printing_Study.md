@@ -12,6 +12,13 @@ Honeycomb Structure:
 Truss Structure:
 ![3D Printing Study for Truss Rib](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Rib_Structure_Truss.jpg)
 
+Weight comparison
+<p align="center">
+  <img src="" width=30%  />
+  <img src="" width=30%  />
+  <img src="" width=30%  />
+  
+
 Result Table of different materials I tested, and eventually it is concluded wooden material is still lighter than all the 3D printing materials tested in this study.
 
 ![Summary Table](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Summary_of_material_properties.png)
