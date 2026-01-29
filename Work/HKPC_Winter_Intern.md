@@ -11,10 +11,12 @@
 
 **Smart Machinery and Equipment**
 
-- Designed a mounting device for robotic arm and camera, applying engineering drawing and GD&T standard for manufacturing.
+- Designed a mounting device for robotic arm and camera, applying 2D, 3D drawing, BOM and GD&T standard for manufacturing via SolidWorks. and GD&T standard for manufacturing.
 
 [Mounting Device Design](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Mounting-Block3.pdf)
-- Conducting a thermographic camera project to identify hidden defects on different materials and report the abnormal phenomenon to boss.
+- Conducting a thermographic camera project to classify normal and abnormal temperature region of the robotic arm during its operation using Roboflow.
+
+[Roboflow Project](https://app.roboflow.com/thermoleila/thermo-inspection-project/models/thermo-inspection-project/7)
 
 **Intern Dare-To-Try Project**
 
@@ -22,6 +24,7 @@
 - Constructed the pain point, background and target client for the project
 - In charge of the tech part: designed the CAD model, components and sensors to be used in the project, including thermographic camera, non-contact ultra-sonic sensor, etc; proposed the data transmission method using cloud-based (IoT) database, gorund control station, mechanical data for the AI model training:
     - Utilize the mechanical data from FEA on SolidWorks to simulate the stress and displacement on the structure due to external force which will be one of the data source for AI model training
+    - Received 2nd Runner up in the presentation contest
 
 
 Drone Model Design:
