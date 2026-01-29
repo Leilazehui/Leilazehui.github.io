@@ -11,7 +11,7 @@
 
 **Smart Machinery and Equipment**
 
-- Designed a mounting device for robotic arm and camera, applying 2D, 3D drawing, BOM and GD&T standard for manufacturing via SolidWorks. and GD&T standard for manufacturing.
+- Designed a mounting device for robotic arm and camera, applying 2D, 3D drawing, BOM and GD&T standard for manufacturing via SolidWorks.
 
 [Mounting Device Design](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Mounting-Block3.pdf)
 - Conducting a thermographic camera project to classify normal and abnormal temperature region of the robotic arm during its operation using Roboflow.
