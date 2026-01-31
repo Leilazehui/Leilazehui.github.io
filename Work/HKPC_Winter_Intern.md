@@ -18,7 +18,7 @@
 
 [Roboflow Project](https://app.roboflow.com/thermoleila/thermo-inspection-project/models/thermo-inspection-project/7)
 <p align="center">
-    <img src="" width="50%"  />
+    <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/thermo-AI.png" width="50%"  />
 </p>
 
 **Intern Dare-To-Try Project**
