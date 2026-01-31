@@ -30,15 +30,12 @@ Promoting the team with my teammates on the Inauguration day for freshmen in fac
  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Promotion_on_freshmen_inaug_day.jpg" width="45%"  />
 </p>
 
-I was conducting a recruitment talk for my team in Fall 2025
+I was conducting a recruitment talk for my team in Fall 2025          A group photo at the end of the talk!
 <p align="center">
  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Team_Recruitment_Talk.jpg" width="45%"  />
-</p>
-
-A group photo at the end of the talk!
-<p align="center">
  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Group_photo_on_talk.jpg" width="45%"  />
 </p>
+
 
 Poster design for team promotion, competition and industry sponsorship
 <p align="center">
