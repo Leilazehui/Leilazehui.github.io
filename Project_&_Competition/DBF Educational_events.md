@@ -44,6 +44,8 @@ Poster design for team promotion, competition and industry sponsorship
 <p align="center">
  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/DBF%20AIAA%202025%20cover%2010.jpg" width="20%"  />
  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/HKUDBF%2025-26%20Poster.png" width="20%"  />
+ <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/poster%202025.jpeg" width="20%"  />
+ 
 
 </p>
 
