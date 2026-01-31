@@ -39,3 +39,6 @@ A group photo at the end of the talk!
 <p align="center">
  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Group_photo_on_talk.jpg)" width="45%"  />
 </p>
+
+Poster design for team promotion
+
