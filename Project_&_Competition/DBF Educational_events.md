@@ -37,8 +37,11 @@ I was conducting a recruitment talk for my team in Fall 2025
 
 A group photo at the end of the talk!
 <p align="center">
- <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Group_photo_on_talk.jpg)" width="45%"  />
+ <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Group_photo_on_talk.jpg" width="45%"  />
 </p>
 
-Poster design for team promotion
+Poster design for team promotion, competition and industry sponsorship
+<p align="center">
+ <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/DBF%20AIAA%202025%20cover%2010.jpg" width="20%"  />
+</p>
 
