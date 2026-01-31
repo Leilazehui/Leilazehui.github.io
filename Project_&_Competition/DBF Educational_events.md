@@ -11,12 +11,12 @@
 
 Team promotion booth in Fall 2024
 <p align="center">
- <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/DBF_Booth.jpg" width="45%"  />
+ <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/DBF_Booth.jpg" width="35%"  />
 </p>
 
 My first workshop organised in this team, fall 2024. I was introducing our team, basic aerodynamic knowledge and also bascis of SolidWorks.
 <p align="center">
- <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Workshop_holding.jpg" width="30%"  />
+ <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Workshop_holding.jpg" width="45%"  />
 </p>
 
 I was introducing Ribs design on SolidWorks and this is one of the participants' progress. Most participants are freshmen who learn about SolidWorks for the first time, and they were able to draw a 3D model in an hour in my workshop. 
