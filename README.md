@@ -46,7 +46,7 @@ Hi, this is Leila. I am a mechanical engineering student studying in the Univers
 ### Intel center visit helper, June 2025
 [More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/Intel_visit_helper.md)
 
-### Winter Intern in Hong Kong Productivity Council, Dec 2025 til now
+### Winter Intern in Hong Kong Productivity Council, Dec 2025 - Jan 2026
 **Role:** Wintern Intern in Smart Manufacturing Division
 
 **Shorts**: Intern who assist supervisors regarding both business and engineering tasks
