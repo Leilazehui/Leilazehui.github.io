@@ -16,7 +16,7 @@ Team promotion booth in Fall 2024
 
 My first workshop organised in this team, fall 2024. I was introducing our team, basic aerodynamic knowledge and also bascis of SolidWorks. One of the workshops where I introduced Ribs design on SolidWorks. Most participants are freshmen who learn about SolidWorks for the first time, and they were able to draw a 3D model in an hour in my workshop. 
 <p align="center">
- <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Workshop_holding.jpg" width="45%"  />
+ <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Workshop_holding.jpg" width="35%"  />
  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Participants_learning_SW.jpg" width="45%"  />
 </p>
 
