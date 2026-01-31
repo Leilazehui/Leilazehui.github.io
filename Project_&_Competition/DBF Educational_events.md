@@ -27,8 +27,8 @@ Promoting the team with my teammates on the Inauguration day for freshmen in fac
 
 I was conducting a recruitment talk for my team in Fall 2025          A group photo at the end of the talk!
 <p align="center">
- <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Team_Recruitment_Talk.jpg" width="45%"  />
- <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Group_photo_on_talk.jpg" width="45%"  />
+ <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Team_Recruitment_Talk.jpg" width="35%"  />
+ <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Group_photo_on_talk.jpg" width="35%"  />
 </p>
 
 
