@@ -75,7 +75,7 @@ Hi, this is Leila. I am a mechanical engineering student studying in the Univers
 
 **Shorts:** Planned and organized academic workshops relating to aerodynamic knowledge and aircraft design, including XFlr5, SolidWorks, Avionics, Manufacturing and Talks. Communicate with faculty, teammates to hold booth during public events. 
 
-[More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/DBF%20Educational_events.md)
+[More about my administrative work experiences](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_&_Competition/DBF%20Administrative_events.md)
 
 ### 3D Printing study
 
@@ -83,7 +83,7 @@ Hi, this is Leila. I am a mechanical engineering student studying in the Univers
 
 **Skills:** SolidWorks, 3D printing (Bambu Lab)
 
-[More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/3D_printing.md)
+[More about 3D printing study](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/3D_printing.md)
 
 ### Power transmission Unit Design for Mining Industry Scenario
 
@@ -93,14 +93,14 @@ Hi, this is Leila. I am a mechanical engineering student studying in the Univers
 
 **Skills:** SolidWorks, Market Research, Literature Study
 
-[More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/transmission_unit.md)
+[More more about power transmission unit project](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/transmission_unit.md)
 
 ### WeGoAlgae
 
 **Role:** Mechanical and Electrical Engineer
-[More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/WeGoAlgae.md)
+[More about WeGoAlgae project](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/WeGoAlgae.md)
 
 ### My certification & Membership:
 
-[More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Certification%20%26%20Membership.md)
+[More about certifications & memberships](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Certification%20%26%20Membership.md)
 
