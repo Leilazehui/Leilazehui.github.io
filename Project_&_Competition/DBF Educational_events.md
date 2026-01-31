@@ -12,18 +12,30 @@
 Team promotion booth in Fall 2024
 <p align="center">
  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/DBF_Booth.jpg" width="45%"  />
+</p>
 
 My first workshop organised in this team, fall 2024. I was introducing our team, basic aerodynamic knowledge and also bascis of SolidWorks.
-![First workshop 2024](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Workshop_holding.jpg)
+<p align="center">
+ <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Workshop_holding.jpg" width="45%"  />
+</p>
 
 I was introducing Ribs design on SolidWorks and this is one of the participants' progress. Most participants are freshmen who learn about SolidWorks for the first time, and they were able to draw a 3D model in an hour in my workshop. 
-![Workshop progress](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Participants_learning_SW.jpg)
+
+<p align="center">
+ <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Participants_learning_SW.jpg" width="45%"  />
+</p>
 
 Promoting the team with my teammates on the Inauguration day for freshmen in faculty of engienering to recruit new members!
-![Promotion on Inaug day](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Promotion_on_freshmen_inaug_day.jpg)
+<p align="center">
+ <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Promotion_on_freshmen_inaug_day.jpg" width="45%"  />
+</p>
 
 I was conducting a recruitment talk for my team in Fall 2025
-![Recruitment talk](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Team_Recruitment_Talk.jpg)
+<p align="center">
+ <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Team_Recruitment_Talk.jpg" width="45%"  />
+</p>
 
 A group photo at the end of the talk!
-![Talk group photo](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Group_photo_on_talk.jpg)
+<p align="center">
+ <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Group_photo_on_talk.jpg)" width="45%"  />
+</p>
