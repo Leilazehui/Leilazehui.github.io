@@ -17,7 +17,8 @@
 - Conducting a thermographic camera project to classify normal and abnormal temperature region of the robotic arm during its operation using Roboflow.
 
 [More about the thermo-cam project](https://github.com/Leilazehui/Thermo-cam-classification/tree/main)
-[Roboflow Project](https://app.roboflow.com/thermoleila/thermo-inspection-project/models/thermo-inspection-project/7)
+
+[Roboflow Project Link](https://app.roboflow.com/thermoleila/thermo-inspection-project/models/thermo-inspection-project/7)
 <p align="center">
     <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/thermo-AI.png" width="50%"  />
 </p>
