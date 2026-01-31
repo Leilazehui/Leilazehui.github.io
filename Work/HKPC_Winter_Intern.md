@@ -17,6 +17,9 @@
 - Conducting a thermographic camera project to classify normal and abnormal temperature region of the robotic arm during its operation using Roboflow.
 
 [Roboflow Project](https://app.roboflow.com/thermoleila/thermo-inspection-project/models/thermo-inspection-project/7)
+<p align="center">
+    <img src="" width="50%"  />
+</p>
 
 **Intern Dare-To-Try Project**
 
