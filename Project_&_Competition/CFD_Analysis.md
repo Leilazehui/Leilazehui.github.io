@@ -4,7 +4,7 @@
 
 **Tools:** SolidWorks, Ansys Fluent
 
-**Setup""
+**Setup**
 Turbulance Model: Spalart Allmaras
 
 Stable and robust for attached flow model 
