@@ -6,16 +6,27 @@
 
 **Setup""
 Turbulance Model: Spalart Allmaras
+
 Stable and robust for attached flow model 
+
 Consider Re: 〖~4.68×10〗^5
+
 Fuselage and wing: attached flow; tail wing, landing gear: locally separated flow 
+
 Velocity assumed: 32 m/s
+
 Cruising angle: 2°
+
 Viscosity calculation: Sutherland Law (dependent on temperature in ideal gas condition)
+
 Mesh statistics: 694691 cells
+
 Boundary conditions:
-Inlet: -32cos(2) along Z dir, -32sin(2) along Y dir
-Outlet: -1.305cos(2) along Z dir, 1.305sin(2) along Y dir
+
+- Inlet: -32cos(2) along Z dir, -32sin(2) along Y dir
+
+- Outlet: -1.305cos(2) along Z dir, 1.305sin(2) along Y dir
+
 <img width="1664" height="719" alt="image" src="https://github.com/user-attachments/assets/0eab10c0-53cc-455d-bff3-dacacaa23683" />
 
 
