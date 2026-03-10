@@ -27,8 +27,6 @@ Boundary conditions:
 
 - Outlet: -1.305cos(2) along Z dir, 1.305sin(2) along Y dir
 
-<img width="1664" height="719" alt="image" src="https://github.com/user-attachments/assets/0eab10c0-53cc-455d-bff3-dacacaa23683" />
-
 
 ![CFD](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Vel-aircraft.png)
 
