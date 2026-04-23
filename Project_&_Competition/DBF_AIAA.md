@@ -16,6 +16,11 @@
 #### Mechanism design:
 - Banner Attachment and Deployment Mechanism: Design an attchment and deployment mechanism using SolidWorks and 3D Printing for the banner which can be towed and released through remote-control during flight.
 
+My team accomplished AIAA DBF 2026 and ranked 32th. I served as a observer crew member to collaborate with team's pilot during the flight mission and check on when the judge on both side of the lap raised the flag and to let the pilot konw when to turn.
+<p algin-"center">
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/grp-photo-banner%20-%20Copy.jpeg" width=45%  />
+<p/>
+
 I was a non-final-year member in AIAA team 2025, where I assisted in plane manufacturing and logistics during the competition site in US in April 2025
 ![Competition Group Photo](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Team_helper_aiaa_2025.jpg)
 
@@ -29,5 +34,6 @@ Here are some graphs that I generated on MATLAB regarding the aerodynamic perfor
 <p align-"center">
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/XW25.png" width=45%  />
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/XW25.png" width=45%  />
+<p/>
 
 As the AIAA 2026 competition has not started yet, the detail for the aircraft design and photos will be kept confidential for now.
