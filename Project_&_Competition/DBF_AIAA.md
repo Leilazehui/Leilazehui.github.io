@@ -42,4 +42,3 @@ Here are some graphs that I generated on MATLAB regarding the aerodynamic perfor
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/XW25.png" width=30%  />
 <p/>
 
-As the AIAA 2026 competition has not started yet, the detail for the aircraft design and photos will be kept confidential for now.
