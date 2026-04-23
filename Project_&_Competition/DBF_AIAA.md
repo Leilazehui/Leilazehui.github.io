@@ -17,27 +17,27 @@
 - Banner Attachment and Deployment Mechanism: Design an attchment and deployment mechanism using SolidWorks and 3D Printing for the banner which can be towed and released through remote-control during flight.
 
 My team accomplished AIAA DBF 2026 and ranked 32th. I served as a observer crew member to collaborate with team's pilot during the flight mission and check on when the judge on both side of the lap raised the flag and to let the pilot konw when to turn.
-<p align=="center">
+<p align-"center">
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/grp-photo-banner%20-%20Copy.jpeg" width=45%  />
 <p/>
 
 I was a non-final-year member in AIAA team 2025, where I assisted in plane manufacturing and logistics during the competition site in US in April 2025
-<p align=="center">
+<p align-"center">
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Team_helper_aiaa_2025.jpg" width=45%  />
 <p/>
 
 CFD Simulation on XFoil
-<p align=="center">
+<p align-"center">
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/CFD_Analysis_on_Xflr5.png" width=45%  />
 <p/>
 
 CFD Simulation for Aicraft on Xflr5
-<p align=="center">
+<p align-"center">
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/CFD_Simulation_on_aicraft.png" width=45%  />
 <p/>
 
 Here are some graphs that I generated on MATLAB regarding the aerodynamic performance of some parts on the aircraft, using the data I acquisited from XFlr5.
-<p align=="center">
+<p align-"center">
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/XW25.png" width=45%  />
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/XW25.png" width=45%  />
 <p/>
