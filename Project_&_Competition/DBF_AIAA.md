@@ -2,7 +2,7 @@
 
 ### Role: Team Leader/Chief Engieneer/Aerodynamic Lead
 
-### Tools: SolidWorks, XFLR5, ANSYS, 3D Printing, Communication
+### Tools: SolidWorks, XFLR5, ANSYS, 3D Printing, MATLAB, Microsoft Suite 
 
 ### Description:
 #### Team Captain: 
