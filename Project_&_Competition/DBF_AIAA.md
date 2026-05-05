@@ -20,8 +20,11 @@
 
 #### Multidisciplinary Optimization Model (MDO)
 - A MDO framework was designed to optimize the best score case for the aircraft configuration.
+- 
 [MDO](https://github.com/Leilazehui/Multidisciplinary-Optimization-Framework-for-AIAA-DBF-2026-Mission-Scoring)
-My team accomplished AIAA DBF 2026 and ranked 32th. I served as a observer crew member to collaborate with team's pilot during the flight mission and check on when the judge on both side of the lap raised the flag and to let the pilot konw when to turn.
+
+### Result of the Competition
+Our team accomplished AIAA DBF 2026 and ranked 32th worldwide, 3rd in Asia and 2nd in Hong Kong. I served as a observer crew member to collaborate with team's pilot during the flight mission and check on when the judge on both side of the lap raised the flag and to let the pilot konw when to turn.
 <p align="center">
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/grp-photo-banner%20-%20Copy.jpeg" width=45%  />
 <p/>
