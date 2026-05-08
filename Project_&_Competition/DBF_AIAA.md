@@ -2,6 +2,8 @@
 
 ### Role: Team Leader/Chief Engieneer/Aerodynamic Lead
 
+**Here to know about the detail of all my design and work in this project: [AIAA DBF 2026]**(https://github.com/Leilazehui/AIAA-DBF-2026-Team-Lead-and-Chief-Engineer-/tree/main)
+
 ### Tools: SolidWorks, XFLR5, ANSYS, 3D Printing, MATLAB, Microsoft Suite 
 
 ### Description:
