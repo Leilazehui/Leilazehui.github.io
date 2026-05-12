@@ -1,4 +1,4 @@
-## DBF Aircraft Design, Jul 2024 - Now
+## AIAA DBF 2026 Competition Project, Jul 2024 - Now
 
 ### Role: Team Leader/Chief Engieneer/Aerodynamic Lead
 
