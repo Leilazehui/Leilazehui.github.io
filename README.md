@@ -64,7 +64,7 @@ Hi, this is Leila. I am a mechanical engineering student studying in the Univers
 
 **Short:** Designed a lightweight trainer aircraft, performed aerodynamic analysis and designed attachment and deployment mechanism for banner towing event.
 
-[More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/DBF_AIAA)
+[More about AIAA DBF 2026](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/DBF_AIAA.md)
 
 
 ### DBF Adminstrative Management
