@@ -10,7 +10,7 @@ Hi, this is Leila. I am a mechanical engineering student studying in the Univers
 
 ### Here are my CV:
 
-[CV](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Zhao%20Zehui_CV.pdf)
+[CV](https://github.com/Leilazehui/Leilazehui.github.io/blob/c6614e553d4b9296ea089a6c34d76445230c4ccf/Assets/Zhao%20Zehui_CV_New.pdf)
 
 [project portfolio](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Project_porfolio_Zhao%20Zehui.pdf)
 ### Here are my Work experiences:
