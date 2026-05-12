@@ -21,7 +21,7 @@ Hi, this is Leila. I am a mechanical engineering student studying in the Univers
 
 **Skills:** Beta-app testing, manual editing
 
-[More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/towngas_intern.md)
+[More about intern in Towngas](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/towngas_intern.md)
 
 
 ### Winter Intern: Student Technician in Feelings Group, Dec 2024 - Jan 2025 
@@ -31,7 +31,7 @@ Hi, this is Leila. I am a mechanical engineering student studying in the Univers
 
 **Skills:** SolidWorks, Literature study and market research, Raspberry Pi, Linux, Bush (beginner)
 
-[More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/Student_Technician_Feelings_Group.md)
+[More about this internship](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/Student_Technician_Feelings_Group.md)
 
 
 ### Part-Time Temporary Student Research Assistant in The University of Hong Kong, Sept - Nov 2025 
@@ -41,7 +41,7 @@ Hi, this is Leila. I am a mechanical engineering student studying in the Univers
 
 **Skills:** Communication, Mentoring
 
-[More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/SRA.md)
+[More about PTTSRA](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/SRA.md)
 
 ### Intel center visit helper, June 2025
 [More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/Intel_visit_helper.md)
@@ -55,6 +55,7 @@ Hi, this is Leila. I am a mechanical engineering student studying in the Univers
 *Fashion and Textile Industry*: ESG · Circular Economy · Social Impact · Policy Research · AI Adoption · Industry Innovation
 *Smart Machinery and Equipment*: Engineering Drawing · GD & T · SolidWorks · Thermographic Camera Defect Inspection Project with integration of AI
 
+[More about Winiter Intern in HKPC](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/HKPC_Winter_Intern.md)
 ### Here are my project experiences:
 ### DBF Aircraft Design
 
