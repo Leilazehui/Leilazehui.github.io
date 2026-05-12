@@ -11,8 +11,9 @@
 
 A selfie with one of the staff from Towngas during the promotion day. The event is held in the conventional center in Wanchai, Hong Kong, Summer 2024, and various companies who aim on sustainaility development and rennovative product held their booth in the venue.
 <p align="center">
-  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/towngas-promotion.jpg"  50%>
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/towngas-promotion.jpg" width=50%  />
 <p/>
+
 ![Towngas Promotion Booth](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/towngas-promotion.jpg)
 
 All intern in towngas company were divided into several groups to conduct small presentations on new proposal for towngas's sustainable development project. This is a group photo of my teammates and I in front of the booth we designed, and we were holding our graduation certificate. The project topic was about:
