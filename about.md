@@ -5,14 +5,13 @@ About me: Leila Zhao
 
 ## Education
 - Bachelor's in Mechanical Engineering, The University of Hong Kong (expected 2027)
-- A+ in engineering project courses and CAD courses
+- A+ in engineering project courses and CAD courses [**here to know about what I did in the project**](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/transmission_unit.md)
 - A and A- in Mechanics of Solids, Dynamics and Control, Thermodynamics
 
 
 ## Interests
-Aerospace: Space systems(still learning); human factors, CFD, CAD design
-Integration of Mechanical engineering and AI (still planning)
-
+Aerospace: Space systems(still learning); human factors, CFD, CAD design, Mechatronics
+Mechanical Engineering in Aerospace
 
 ## Contact
 - Email: leilazhao853@gmail.com
