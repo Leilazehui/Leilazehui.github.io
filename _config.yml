@@ -1,7 +1,6 @@
 title: "Leila Zhao"
 email: "leilzhao853@gmail.com"
 description: "BEng Mechanical Engineering @ HKU — aerospace design, CFD, DBF"
-baseurl: "" # leave empty for user pages
 url: "https://Leilazehui.github.io"
 remote_theme: pages-themes/cayman@v0.2.0
 
