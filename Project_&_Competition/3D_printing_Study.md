@@ -8,15 +8,15 @@ Conceptual Idea and Design:
 ![Rib structure conceptual design](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Ribs_design.png)
 Honeycomb Structure:                                Truss Structure:
 <p align="center">
-  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Rib_Structure_Honeycomb.jpg" width=35%  />
-  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Rib_Structure_Truss.jpg" width=35%  />
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Rib_Structure_Honeycomb.jpg" width=30%  />
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Rib_Structure_Truss.jpg" width=30%  />
 </p>
 
 Weight comparison
 <p align="center">
-  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/truss-rib.jpg" width=30%  />
-  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/honey-rib.jpg" width=30%  />
-  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/normal-rib.jpg" width=30%  />
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/truss-rib.jpg" width=32%  />
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/honey-rib.jpg" width=32%  />
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/normal-rib.jpg" width=32%  />
 </p>
   
 
