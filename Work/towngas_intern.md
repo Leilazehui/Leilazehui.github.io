@@ -8,7 +8,7 @@
 - Helped boss to analyze market potential for company’s product which is a newly renovated washing machine designed by my supervisor in the company and participated in daily meetings to understand team’s structure, working principles.
 - Participated and represented company's booth in energy supply expedition in Hong Kong in 2024, help promoted company's products to the public.
 
-[Recomendation Letter]()
+[Recomendation Letter](https://github.com/Leilazehui/Leilazehui.github.io/blob/792039faa63047a98f86d8612c9b486c976c94b2/Assets/Letter%20of%20Recommendation_Zhao%20Zehui.pdf)
 
 A selfie with one of the staff from Towngas during the promotion day. The event is held in the conventional center in Wanchai, Hong Kong, Summer 2024, and various companies who aim on sustainaility development and rennovative product held their booth in the venue.
 <p align="center">
