@@ -83,7 +83,7 @@ Hi, this is Leila. I am a mechanical engineering student studying in the Univers
 
 **Skills:** SolidWorks, 3D printing (Bambu Lab)
 
-[More about 3D printing study](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/3D_printing.md)
+[More about 3D printing study](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_&_Competition/3D_printing_Study.md)
 
 ### Power transmission Unit Design for Mining Industry Scenario
 
