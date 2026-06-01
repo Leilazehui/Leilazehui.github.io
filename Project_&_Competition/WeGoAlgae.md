@@ -7,6 +7,7 @@
 - Conducted basic study on Microalgae's properties, background ppt for the project which explains the functions and benefits of microalgae to the environment.
 
 A project intended to study an improvement of fluid circulation in the microalgae tank. (left) I was introducing background of this project and what is microalgae to the participants. (right)
+-----
 <p align="center">
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/WeGoAlgae-Fluidic-tank.JPG" width="45%"  />
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/introducing_algae.jpg" width="45%"  />
