@@ -11,6 +11,6 @@ I was introducing background of this project and what is microalgae to the parti
 
 A project intended to study an improvement of fluid circulation in the microalgae tank.
 <p align="center">
-  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/WeGoAlgae-Fluidic-tank.JPG"   />
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/WeGoAlgae-Fluidic-tank.JPG" size="50%"  />
 <p/>
 
