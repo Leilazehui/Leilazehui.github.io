@@ -7,7 +7,9 @@
 - Conducted basic study on Microalgae's properties, background ppt for the project which explains the functions and benefits of microalgae to the environment.
 
 I was introducing background of this project and what is microalgae to the participants.
-![Microalgae Workshop](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/introducing_algae.jpg)
+<p align="center">
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/introducing_algae.jpg" size="50%"  />
+<p/>
 
 A project intended to study an improvement of fluid circulation in the microalgae tank.
 <p align="center">
