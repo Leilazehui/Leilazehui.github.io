@@ -10,4 +10,7 @@ I was introducing background of this project and what is microalgae to the parti
 ![Microalgae Workshop](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/introducing_algae.jpg)
 
 A project intended to study an improvement of fluid circulation in the microalgae tank.
+<p align="center">
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/WeGoAlgae-Fluidic-tank.JPG"   />
+<p/>
 
