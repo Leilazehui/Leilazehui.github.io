@@ -86,3 +86,14 @@ Prepare powerpoint presentation (around 8 minutes) on next week:
 
 
 ---
+test content:
+Lecture 1:
+- space enviornemnt
+- testing methods
+- overview of space economy (number of satellites)
+- satellite orbits
+Lecture 2:
+- Satellite techonology
+- and statellit lecture from 22 July
+
+basic calcualtion for the elcetrical parts: calcualte power and voltage etc, rockets, velocity (basically all equations)
