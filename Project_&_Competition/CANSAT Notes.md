@@ -97,3 +97,6 @@ Lecture 2:
 - and statellit lecture from 22 July
 
 basic calcualtion for the elcetrical parts: calcualte power and voltage etc, rockets, velocity (basically all equations)
+principle of energy conversion (mech to electrical etc)
+20 Q and 1 bonus
+
