@@ -157,5 +157,10 @@ unsigned value is only for positive value ranging from 0 to +255
 || OR, e..g, A||B true, if A or B not zero;
 ! A!B false;
 
+#### Control structure
+while - loop continuously and infinitely, until the expression inside the parenthesis () becomes false
+do...while - 
+for - 
 
-
+SMD edition:
+Mega16U2 is the programer, which program mega328P to run the program
