@@ -152,10 +152,10 @@ unsigned value is only for positive value ranging from 0 to +255
 - String - array of characters including a null-terminated string, e.g., string my_sign[] = "Hello World", **this is a 12 byte string, 11 cahracters with 1 more position for "0" to let the computer know it stops at the null terminator**
 
 #### Arduino operator
-| bit by bit OR
-~ bit by bit NOT
-|| OR, e..g, A||B true, if A or B not zero
-! A!B false
+| bit by bit OR;
+~ bit by bit NOT;
+|| OR, e..g, A||B true, if A or B not zero;
+! A!B false;
 
 
 
