@@ -96,7 +96,66 @@ Lecture 2:
 - Satellite techonology
 - and statellit lecture from 22 July
 
-basic calcualtion for the elcetrical parts: calcualte power and voltage etc, rockets, velocity (basically all equations)
+basic calcualtion for the elcetrical parts: calculate power and voltage etc, rockets, velocity (basically all equations)
 principle of energy conversion (mech to electrical etc)
 20 Q and 1 bonus
 Jupyter Notebook
+
+27 July 2026
+Software: Microcontroller (I/O pins)
+
+---
+
+RISK: reduced instructions computer
+Program Memory - Flash - EEPROM (non-volatile: remain its content after the computer is shut down) vs volatile: lost memory after it's shut down, but not this case)
+Voltage range: 3.3-5V
+SPI/ UART/ watch dog timer (to reset a loop and to avoid lagging/error happening. WDT will restart everything again)/ interrupts/ timers
+
+**C language:**
+#### e.g. FATFS* fs
+FATFS = a type (a struct from the lib of FatFs
+With the *, it means it's a pointer to FATFS
+fs = name of the variable, holds the memory address where a FatFs obj is stored, but not the actual data
+
+#### Stage: preprocessing, compiling and linking
+1. "#" marked: it is a specific operation to recognize and execute special preprocessor instruction which are not implmented in C
+2. transform higher level source code to object code (machinec ode, missing functions that cannot be translated)
+3. Linking: find where other object files located and compile them together, transform missing functions
+
+#### Binary system vs Hexadecimal system
+
+#### Two's complement
+8-bit vairables: express 256 conditions for positive values: 0 to +127, and positive to negative values: -128 to +127
+to leftmost number indicates whether the value is pos or neg. 0 = neg, 1 = pos
+unsigned value is only for positive value ranging from 0 to +255
+
+#### Adruino:
+- 1KB Electrical programmable memory: read once, progress for thousands of times, can be erased or reprogrammed by UV lights
+- Atmel Atmega328P microcontroller
+- Flash memory: volatile memory
+- 14 digital I/O
+- siz 10bit ADC channels
+
+- EEPROMS takes longer time and more energy than Flash memory, so good for configuration parameters, but not the fast processing program
+- ADC: 2 to the 10 steps, together 1024 steps (the analog-to-digital converter)
+
+- Aruidno data type definitions:
+- Boolean - for C++ but not C; can be true/false, just need one bit of memory, e.g., boolean absolute_truth = true;
+- Byte - 8 bits, obtain values from 0 to 255, e.g., byte my_variable = 0;
+- Char - 1 byte sign of the ASCII code written with an aprostrophe, e.g., char 'A', that means it's 65
+- Unsigned char - only contain unsigned character, which is pos value from 0 to 255
+- unsigned char my_char = 171, that means the variable saves the number 171
+- Int interger - constss of two bytes with values from -32768 to +32767
+- Unsigned int - 0 to 63535 (2^16 - 1)
+- Unsigned long - 32bit variable with pos values from 0 to 4 294 967 295 (very large variable)
+- Float - floating point vairable which can store 32bit including algebraic sign and exponent. they range from -3.4028235 E+38 to +3.4028235 E+38
+- String - array of characters including a null-terminated string, e.g., string my_sign[] = "Hello World", **this is a 12 byte string, 11 cahracters with 1 more position for "0" to let the computer know it stops at the null terminator**
+
+#### Arduino operator
+| bit by bit OR
+~ bit by bit NOT
+|| OR, e..g, A||B true, if A or B not zero
+! A!B false
+
+
+
