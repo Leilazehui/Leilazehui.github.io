@@ -172,3 +172,8 @@ Regulations and restriction: ECSS handbooks
 MBSE: EGSE, tools, DESC, models etc
 Satellite structure optimization: quazi static load - **most important!!**
 Fusion tool: **generative design** for simulation
+
+MBSE: 
+SysML - SysIDE
+MATLAB Composer
+Gitlab
