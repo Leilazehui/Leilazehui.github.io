@@ -171,4 +171,4 @@ Mega16U2 is the programer, which program mega328P to run the program
 Regulations and restriction: ECSS
 MBSE: EGSE, tools, DESC, models etc
 Satellite structure optimization: quazi static load - **most important!!**
-
+Fusion tool: **generative design** for simulation, 
