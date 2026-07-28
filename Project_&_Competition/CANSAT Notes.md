@@ -164,3 +164,11 @@ for -
 
 SMD edition:
 Mega16U2 is the programer, which program mega328P to run the program
+
+28 July 2026 (CAD design, Msc Paul Thurley)
+
+--- 
+Regulations and restriction: ECSS
+MBSE: EGSE, tools, DESC, models etc
+Satellite structure optimization: quazi static load - **most important!!**
+
