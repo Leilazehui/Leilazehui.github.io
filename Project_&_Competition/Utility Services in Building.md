@@ -23,5 +23,5 @@
 - Solid & Waste system calculation and schematic layout design on AutoCAD
 
 <p>
-  src = (https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/mech3431%20project.pdf)
+  [MECH3431 Plumping and drainage service system project](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/mech3431%20project.pdf)
 </p>
