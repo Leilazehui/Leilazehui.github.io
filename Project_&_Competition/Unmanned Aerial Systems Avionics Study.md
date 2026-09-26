@@ -10,3 +10,7 @@
 [[Group Project Report](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/MECH4427_grp1_Report.pdf)
 
 Presentation slides about market research of motors for UAV design 
+
+<p align "center">
+  <img src="", width = 50%  />
+</p>
