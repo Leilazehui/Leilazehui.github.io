@@ -11,6 +11,6 @@
 
 Presentation slides about market research of motors for UAV design 
 
-<p align "center">
+<p align="center">
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/MECH4427.png", width = 50%  />
 </p>
