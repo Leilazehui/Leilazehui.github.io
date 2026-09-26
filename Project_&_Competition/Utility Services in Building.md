@@ -1,4 +1,4 @@
-## Topics covered in this course
+## Topics covered in this course    Grade: A-
 ### Cold & flush water supply
 - Introduction of cold and flush water supply systems in buildings and design calculations for cold and flush water system.
 
