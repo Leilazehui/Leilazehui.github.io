@@ -21,4 +21,7 @@
 ## Project: Plumping and drainage service system 
 ### Reponsiblities:
 - Solid & Waste system calculation and schematic layout design on AutoCAD
-  
+
+<p>
+  src = (https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/mech3431%20project.pdf)
+</p>
