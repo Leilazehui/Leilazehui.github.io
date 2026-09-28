@@ -14,7 +14,7 @@ Interested in :
 [Contact Info](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/about.md)
 
 <p align="center">
-  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/selfie.png" width="40%"  />
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Photo%20about%20me.png" width="40%"  />
 </p>
 
 
