@@ -1,3 +1,5 @@
+### HKU AIAA Student Branch Founding Member & Student Advisor 2026 - 2027
+
 ### Cathay City: Early Career Experience Day 2025
 - A 1-hour mock hackathon in CX city which I worked with 3 other students from other universities to come up with an 800K project proposal.
 - Oversaw product design and market research.
