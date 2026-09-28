@@ -7,9 +7,12 @@
 
 [Full final presentation slides](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/CanSat%20Final%20Presentation%20-%20Sternenj%C3%A4ger.pdf)
 
-------
-About me | Leila Zhao
-------
+| Section | What It Is | Why You Might Care |
+|---------|-----------|-------------------|
+| **Technical Design** | Wing specs, [CFD analysis](./CFD_Analysis.md), MDO framework, banner mechanism design | If you want to see my engineering depth |
+| **Lessons Learned** | **My biggest failures + the systems I built to never repeat them** | If you want to see what I learnt from this project |
+| **Management Tools** | Task allocation matrix, risk heatmap, meeting minutes template | If you want to see how I lead |
+| **Sponsorship & Brandin** | How I raised 109,000+ HKD, designed team jacket, ran 30+ workshops | If you care about resourcefulness |
 
 Object detection and avoidance testing 
 Initial stage: Distinguish grey colour region from non-grey colour region using colour classification (left)
