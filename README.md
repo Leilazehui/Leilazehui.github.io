@@ -27,7 +27,7 @@ Interested in :
 
 #### [3D printing material and wood material comparison in lightweight design, and ribs structuredesign](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_&_Competition/3D_printing_Study.md)
 
-#### [Power transmission Unit Design for Mining Industry Scenario](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project/transmission_unit.md)
+#### [Power transmission Unit Design for Mining Industry Scenario](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/transmission_unit.md)
 
 #### [My certification & Membership](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Certification%20%26%20Membership.md)
 
