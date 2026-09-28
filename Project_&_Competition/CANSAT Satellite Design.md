@@ -15,6 +15,6 @@ Object detection and avoidance testing
 
 Photo with course director (Dr Robin)
 <p align="center">
-  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/photo%20with%20dr%20robin.jpeg"  width=50% />
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/photo%20with%20dr%20robin.jpeg"  width=20% />
 </p>
 
