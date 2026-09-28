@@ -27,14 +27,14 @@ Understand fundamentals of MBSE and common models adopted by companies to enhanc
 
 
 ### 6. Hong Kong Insitute of Engineers: Student Member, 2023
----
+
 ### 7. Institute of Mechanical Engineering, Hong Kong: Young member, 2023 
----
+
 ### 8. Hong Kong Techathon 2023
 - Designed an app interface for educational purposes in subjects related to Astronomy in group
 
 [Techathon2023](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Techathon2023.pdf)
----
+
 ### 9. The 1st Hong Kong National Aerospace Knowledge Competition, 2022
 
 **Discription:** Questions include basics of aerospace development in China and the world and two open questions about the recycling plan on the "Dong Fang Yi Hao" (the first satellite launched by China), and Thoughts on Base development on Moon.
