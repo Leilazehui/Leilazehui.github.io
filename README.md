@@ -18,10 +18,10 @@ Interested in :
 </p>
 
 
-#### Project Experiences:
-### [CanSat Satellite Design](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/CANSAT%20Satellite%20Design.md)      **Role:** Software Lead
+Project Experiences:
+#### [CanSat Satellite Design](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/CANSAT%20Satellite%20Design.md)      **Role:** Software Lead
 
-### [AIAA DBF 2026 Competition](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/DBF_AIAA.md)      **Role:** Team Leader, Chief Engineering, Aerodynamic Lead, Observer Crew
+#### [AIAA DBF 2026 Competition](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/DBF_AIAA.md)      **Role:** Team Leader, Chief Engineering, Aerodynamic Lead, Observer Crew
 
 #### [DBF Adminstrative Management](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_&_Competition/DBF%20Administrative_events.md)      **Role:** Administrative leader and 3D printing study  
 
@@ -31,11 +31,11 @@ Interested in :
 
 #### [My certification & Membership](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Certification%20%26%20Membership.md)
 
-### Future Goals:
+Future Goals:
 - **MSc Aerospace Engineering**
 - **Research in UAVs, Flight Dynamics and MDO**
 
-### Here are My Work Experiences:
+Here are My Work Experiences:
 #### [Summer Intern in The Hong Kong and China Gas Company (Towngas), Jul 2024 - Aug 2024](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/towngas_intern.md) (Role: Summer Intern in residential product and quality department)
 
 #### [WeGoAlgae, Jul 2024 - Dec 2024](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/WeGoAlgae.md) (Role: Mechanical and Electrical Engineer)
