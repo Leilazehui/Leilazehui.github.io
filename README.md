@@ -1,6 +1,15 @@
 ### About me 
 
-Hi, this is Leila. I am a mechanical engineering student studying in the University of Hong Kong. Other than my major, I am particularly interested in space exploration, extraterrestrial life and astrology. In the mean time, I like star-gazing and hiking. Currently, I am learning CFD, Programming and AI prompt engineering, and hardware development for my final year project and side-projects as well. Feel free to connect and chat through leilazhao853@gmail.com
+#### Hi, I'm Leila Zhao.
+
+Mechanical Engineering student at the University of Hong Kong
+
+Interested in :
+✈ Aerospace Systems Engineering
+🚁 UAV Design & Control
+🛰 Space Systems
+🤖 Robotics & Autonomous Systems
+📊 Multidisciplinary Design Optimization
 
 [Contact Info](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/about.md)
 
@@ -8,73 +17,26 @@ Hi, this is Leila. I am a mechanical engineering student studying in the Univers
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Myself.jpeg" width="50%"  />
 </p>
 
-
-### Here are my CV and project porfolio:
-
-[CV](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Zhao%20Zehui_CV.pdf) | [project portfolio](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Project_porfolio_Zhao_Zehui.pdf)
-
-### Here are my Work experiences:
-### Summer Intern in The Hong Kong and China Gas Company (Towngas), Jul 2024 - Aug 2024
-**Role:** Summer Intern
-
-**Shorts:** Assist my supervisor and engineer in the team on beta app testing, manual editing and market research in Residential Product Development Department
-
-**Skills:** Beta-app testing, manual editing
-
-[More about intern in Towngas](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/towngas_intern.md)
-
-
-### Winter Intern: Student Technician in Feelings Group, Dec 2024 - Jan 2025 
-**Role:** Winter intern-Stuent Technican in Hardware Team
-
-**Shorts:** Worked in a startup company and conducted literature study and market research on Radar system for Medical Device, gained basic experience in Raspberry Pi project
-
-**Skills:** SolidWorks, Literature study and market research, Raspberry Pi, Linux, Bush (beginner)
-
-[More about this internship](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/Student_Technician_Feelings_Group.md)
-
-
-### Part-Time Temporary Student Research Assistant in The University of Hong Kong, Sept - Nov 2025 
-**Role:** Part-time student research assistant 
-
-**Shorts:** Assist lecturer in workshop classes to guide students on their robotic arm projects, provide feedbacks to lecturers about the workshops. 
-
-**Skills:** Communication, Mentoring
-
-[More about PTTSRA](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/SRA.md)
-
-### Intel center visit helper, June 2025
-[More](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/Intel_visit_helper.md)
-
-### Winter Intern in Hong Kong Productivity Council, Dec 2025 - Jan 2026
-**Role:** Wintern Intern in Smart Manufacturing Division
-
-**Shorts**: Intern who assist supervisors regarding both business and engineering tasks
-
-**Skills:** 
-*Fashion and Textile Industry*: ESG · Circular Economy · Social Impact · Policy Research · AI Adoption · Industry Innovation
-*Smart Machinery and Equipment*: Engineering Drawing · GD & T · SolidWorks · Thermographic Camera Defect Inspection Project with integration of AI
-
-[More about Winiter Intern in HKPC](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/HKPC_Winter_Intern.md)
+Current Projects:
+- AIAA DBF Aircraft Design Competition
+- UAV Design and Control
+- Aircraft Optimization Framework
+- CanSat Autonomous Navigation
+ 
+Future Goals:
+- MSc Aerospace Engineering
+- Research in UAVs, Flight Dynamics and MDO
 ### Here are my project experiences:
 ### DBF Aircraft Design
 
-**Role:** Team Captain
-
-**Skills:** SolidWorks, XFLR5, ANSYS, 3D Printing, 
-
-**Short:** Designed a lightweight trainer aircraft, performed aerodynamic analysis and designed attachment and deployment mechanism for banner towing event.
+**Role:** Team Leader, Chief Engineering, Aerodynamic Lead, Observer Crew
 
 [More about AIAA DBF 2026](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/DBF_AIAA.md)
 
 
 ### DBF Adminstrative Management
 
-**Role:** Admin Leader
-
-**Skills:** Event organization, Poster design and team promotion, Team management, Collaboration and Communication
-
-**Shorts:** Planned and organized academic workshops relating to aerodynamic knowledge and aircraft design, including XFlr5, SolidWorks, Avionics, Manufacturing and Talks. Communicate with faculty, teammates to hold booth during public events. 
+**Role:** Administrative leader and 3D printing study  
 
 [More about my administrative work experiences](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_&_Competition/DBF%20Administrative_events.md)
 
@@ -105,3 +67,32 @@ Hi, this is Leila. I am a mechanical engineering student studying in the Univers
 
 [More about certifications & memberships](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Certification%20%26%20Membership.md)
 
+
+
+
+### Here are my CV and project porfolio:
+
+[CV](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Zhao%20Zehui_CV.pdf) | [project portfolio](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Project_porfolio_Zhao_Zehui.pdf)
+
+### Here are my Work experiences:
+### Summer Intern in The Hong Kong and China Gas Company (Towngas), Jul 2024 - Aug 2024
+**Role:** Summer Intern in residential product and quality department
+
+[More about intern in Towngas](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/towngas_intern.md)
+
+
+### Winter Intern: Student Technician in Feelings Group, Dec 2024 - Jan 2025 
+**Role:** Winter intern-Student Technican in Hardware Team
+
+[More about this internship](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/Student_Technician_Feelings_Group.md)
+
+
+### Part-Time Temporary Student Research Assistant in The University of Hong Kong, Sept - Nov 2025 
+**Role:** Part-time student research assistant 
+
+[More about PTTSRA](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/SRA.md)
+
+### Winter Intern in Hong Kong Productivity Council, Dec 2025 - Jan 2026
+**Role:** Wintern Intern in Smart Manufacturing Division (Fashion and Textile Industry & Smart Machinery and Equipment
+
+[More about Winiter Intern in HKPC](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/HKPC_Winter_Intern.md)
