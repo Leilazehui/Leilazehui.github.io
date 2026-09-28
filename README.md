@@ -32,8 +32,8 @@ Interested in :
 #### [My certification & Membership](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Certification%20%26%20Membership.md)
 
 ### Future Goals:
-- MSc Aerospace Engineering
-- Research in UAVs, Flight Dynamics and MDO
+- **MSc Aerospace Engineering**
+- **Research in UAVs, Flight Dynamics and MDO**
 
 ### Here are My Work Experiences:
 #### [Summer Intern in The Hong Kong and China Gas Company (Towngas), Jul 2024 - Aug 2024](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/towngas_intern.md) (Role: Summer Intern in residential product and quality department)
