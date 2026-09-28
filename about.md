@@ -22,3 +22,7 @@ Mechanical Engineering in Aerospace
 ### Leisure Events:
 - Music, camping, Hiking, Snorkelling and meet new friends at Uni!
 - I also practice mindfulness, meditation and learn about the bridge between us and the universe from both scientific and spiritual aspect.
+
+---
+About me: Leila Zhao
+---
