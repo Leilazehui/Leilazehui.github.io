@@ -9,7 +9,7 @@
 
 | A project intended to study an improvement of fluid circulation in the microalgae tank. (left) | I was introducing background of this project and what is microalgae to the participants. (right) |
 |-------------------|-------------------|
-| Complete setup of the algae tank | Early version of algae tank with the pump circuit system I designed and soldered |
+| **Complete setup of the algae tank** | **Early version of algae tank with the pump circuit system I designed and soldered** |
 
 <p align="center">
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/WeGoAlgae-Fluidic-tank.JPG" width="45%"  />
