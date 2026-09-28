@@ -1,6 +1,6 @@
 ### Job Tile: HKPC Winter Intern in Smart Manufacturing Division
 
-#### Duration: 22 Dec 2025 - now
+#### Duration: 22 Dec 2025 - 31 Jan 2026
 
 #### Job Description: 
 
