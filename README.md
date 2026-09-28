@@ -36,7 +36,7 @@ Interested in :
 - Research in UAVs, Flight Dynamics and MDO
 
 ### Here are my Work experiences:
-#### [Summer Intern in The Hong Kong and China Gas Company (Towngas), Jul 2024 - Aug 2024] (https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/towngas_intern.md) (Role: Summer Intern in residential product and quality department)
+#### [Summer Intern in The Hong Kong and China Gas Company (Towngas), Jul 2024 - Aug 2024](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/towngas_intern.md) (Role: Summer Intern in residential product and quality department)
 
 #### [WeGoAlgae, Jul 2024 - Dec 2024](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/WeGoAlgae.md) (Role: Mechanical and Electrical Engineer)
 
