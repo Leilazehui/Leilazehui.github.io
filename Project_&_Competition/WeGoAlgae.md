@@ -19,6 +19,7 @@
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/wholesetup_wegoalgae.jpg" width="20%"  />
   
 <p/>
+  
 | Complete setup of the algae tank | Early version of algae tank with the pump circuit system I designed and soldered |
 |-------------------|-------------------|
 
