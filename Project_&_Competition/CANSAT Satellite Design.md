@@ -7,6 +7,10 @@
 
 [Full final presentation slides](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/CanSat%20Final%20Presentation%20-%20Sternenj%C3%A4ger.pdf)
 
+---
+About me: Leila Zhao
+---
+
 Object detection and avoidance testing 
 Initial stage: Distinguish grey colour region from non-grey colour region using colour classification (left)
 Improved process: Distinguish green colour region from non-green colour regions and reduced signal disturbance to improve accuracy (right)
