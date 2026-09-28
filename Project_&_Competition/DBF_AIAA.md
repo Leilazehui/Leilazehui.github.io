@@ -1,6 +1,6 @@
 ## AIAA DBF 2026 Competition Project, Jul 2025 - May 2026
 
-### Role: Team Leader/Chief Engieneer/Aerodynamic Lead
+### Role: Team Leader/Chief Engineer/Aerodynamic Lead/Observer crew
 
 **Here to know about the detail of all my design and work in this project: 
 [AIAA DBF 2026](https://github.com/Leilazehui/AIAA-DBF-2026-Team-Lead-and-Chief-Engineer-/tree/main)**
