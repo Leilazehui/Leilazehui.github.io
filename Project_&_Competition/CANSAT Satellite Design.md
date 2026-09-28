@@ -15,6 +15,11 @@ Improved process: Distinguish green colour region from non-green colour regions 
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/object-detection-comparison.png"  width=46% />
 </p>
 
+Completed cansat device and circuit system
+<p align="center">
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/CANSAT%20Device.jpeg"  width=40% />
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/cansat-circuit.jpg"  width=46% />
+</p>
 
 Photo with course director (Dr Robin)
 <p>
