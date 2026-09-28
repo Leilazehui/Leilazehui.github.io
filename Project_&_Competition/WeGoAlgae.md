@@ -12,6 +12,6 @@ A project intended to study an improvement of fluid circulation in the microalga
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/WeGoAlgae-Fluidic-tank.JPG" width="45%"  />
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/introducing_algae.jpg" width="45%"  />
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/wegoalgae_tank.jpg" width="45%"  />
-  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/wholesetup_wegoalgae.jpg" width="45%"  />
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/wholesetup_wegoalgae.jpg" width="20%"  />
   
 <p/>
