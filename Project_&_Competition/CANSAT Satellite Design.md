@@ -9,8 +9,6 @@
 
 
 | Object detection and avoidance testing |
-|--------------------------------------|
-
 | Initial stage: Distinguish grey colour region from non-grey colour region using colour classification (left) | Improved process: Distinguish green colour region from non-green colour regions and reduced signal disturbance to improve accuracy (right) |
 |-------------------|-------------------|
 
