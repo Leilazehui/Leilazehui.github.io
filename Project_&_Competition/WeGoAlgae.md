@@ -8,7 +8,6 @@
 
 
 | A project intended to study an improvement of fluid circulation in the microalgae tank. (left) | I was introducing background of this project and what is microalgae to the participants. (right) |
-| A project intended to study an improvement of fluid circulation in the microalgae tank. (left) | I was introducing background of this project and what is microalgae to the participants. (right) |
 |-------------------|-------------------|
 | **Complete setup of the algae tank** | **Early version of algae tank with the pump circuit system I designed and soldered** |
 
