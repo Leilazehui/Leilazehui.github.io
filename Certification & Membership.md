@@ -21,11 +21,9 @@ Understand fundamentals of MBSE and common models adopted by companies to enhanc
 ---
 ### MATLAB: Matlab-Onramp training online course, Nov 2024
 - Learn about fundamentals of MATLAB usage, inclulding data analysis, graph plotting, and currently working on solving coding challenges on MATLAB
-  
-<p align="center">
-  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/MATLAB.pdf" width=50%  />
-  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/matlab-programming-constructs-cert.jpg" width=50%  />
-</p>
+
+[MATLAB Onramp cert](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/MATLAB.pdf)
+[MATLAB Programming Construct](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/matlab-programming-constructs-cert.jpg)
 
 ---
 ### Hong Kong Insitute of Engineers: Student Member, 2023
