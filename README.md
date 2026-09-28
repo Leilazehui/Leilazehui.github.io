@@ -19,16 +19,11 @@ Interested in :
 
 
 ### Project experiences:
-#### CanSat Satellite Design
-**Role:** Software Lead
+#### CanSat Satellite Design      **Role:** Software Lead
 
-#### [AIAA DBF 2026 Competition](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/DBF_AIAA.md)
+#### [AIAA DBF 2026 Competition](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/DBF_AIAA.md)      **Role:** Team Leader, Chief Engineering, Aerodynamic Lead, Observer Crew
 
-**Role:** Team Leader, Chief Engineering, Aerodynamic Lead, Observer Crew
-
-#### [DBF Adminstrative Management](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_&_Competition/DBF%20Administrative_events.md)
-
-**Role:** Administrative leader and 3D printing study  
+#### [DBF Adminstrative Management](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_&_Competition/DBF%20Administrative_events.md)      **Role:** Administrative leader and 3D printing study  
 
 #### [3D printing material and wood material comparison in lightweight design, and ribs structuredesign](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_&_Competition/3D_printing_Study.md)
 
