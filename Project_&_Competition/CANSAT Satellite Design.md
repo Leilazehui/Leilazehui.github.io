@@ -11,8 +11,8 @@ Object detection and avoidance testing
 Initial stage: Distinguish grey colour region from non-grey colour region using colour classification (left)
 Improved process: Distinguish green colour region from non-green colour regions and reduced signal disturbance to improve accuracy (right)
 <p align="center">
-  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/rgb%26mask1.png"  width=35% />
-  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/object-detection-comparison.png"  width=39% />
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/rgb%26mask1.png"  width=40% />
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/object-detection-comparison.png"  width=46% />
 </p>
 
 
