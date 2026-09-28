@@ -18,10 +18,10 @@ Interested in :
 </p>
 
 
-### Project Experiences:
-#### [CanSat Satellite Design](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/CANSAT%20Satellite%20Design.md)      **Role:** Software Lead
+#### Project Experiences:
+### [CanSat Satellite Design](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/CANSAT%20Satellite%20Design.md)      **Role:** Software Lead
 
-#### [AIAA DBF 2026 Competition](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/DBF_AIAA.md)      **Role:** Team Leader, Chief Engineering, Aerodynamic Lead, Observer Crew
+### [AIAA DBF 2026 Competition](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/DBF_AIAA.md)      **Role:** Team Leader, Chief Engineering, Aerodynamic Lead, Observer Crew
 
 #### [DBF Adminstrative Management](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_&_Competition/DBF%20Administrative_events.md)      **Role:** Administrative leader and 3D printing study  
 
