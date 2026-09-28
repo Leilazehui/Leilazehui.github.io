@@ -8,7 +8,7 @@
 [Full final presentation slides](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/CanSat%20Final%20Presentation%20-%20Sternenj%C3%A4ger.pdf)
 
 ---
-About me: Leila Zhao
+About me | Leila Zhao
 ---
 
 Object detection and avoidance testing 
