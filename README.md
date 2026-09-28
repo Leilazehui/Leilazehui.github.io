@@ -18,7 +18,7 @@ Interested in :
 </p>
 
 
-### Project experiences:
+### Project Experiences:
 #### CanSat Satellite Design      **Role:** Software Lead
 
 #### [AIAA DBF 2026 Competition](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/DBF_AIAA.md)      **Role:** Team Leader, Chief Engineering, Aerodynamic Lead, Observer Crew
@@ -35,7 +35,7 @@ Interested in :
 - MSc Aerospace Engineering
 - Research in UAVs, Flight Dynamics and MDO
 
-### Here are my Work experiences:
+### Here are My Work Experiences:
 #### [Summer Intern in The Hong Kong and China Gas Company (Towngas), Jul 2024 - Aug 2024](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/towngas_intern.md) (Role: Summer Intern in residential product and quality department)
 
 #### [WeGoAlgae, Jul 2024 - Dec 2024](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/WeGoAlgae.md) (Role: Mechanical and Electrical Engineer)
