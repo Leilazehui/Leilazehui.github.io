@@ -36,19 +36,14 @@ Interested in :
 - Research in UAVs, Flight Dynamics and MDO
 
 ### Here are my Work experiences:
-#### [Summer Intern in The Hong Kong and China Gas Company (Towngas), Jul 2024 - Aug 2024] (https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/towngas_intern.md)
-**Role:** Summer Intern in residential product and quality department
+#### [Summer Intern in The Hong Kong and China Gas Company (Towngas), Jul 2024 - Aug 2024] (https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/towngas_intern.md) (Role: Summer Intern in residential product and quality department)
 
-#### [WeGoAlgae, Jul 2024 - Dec 2024](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/WeGoAlgae.md)
-**Role:** Mechanical and Electrical Engineer
+#### [WeGoAlgae, Jul 2024 - Dec 2024](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/WeGoAlgae.md) (Role: Mechanical and Electrical Engineer)
 
-#### [Winter Intern: Student Technician in Feelings Group, Dec 2024 - Jan 2025](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/Student_Technician_Feelings_Group.md)
-**Role:** Winter intern-Student Technican in Hardware Team
+#### [Winter Intern: Student Technician in Feelings Group, Dec 2024 - Jan 2025](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/Student_Technician_Feelings_Group.md) (Role: Winter intern-Student Technican in Hardware Team)
 
+#### [Part-Time Temporary Student Research Assistant in The University of Hong Kong, Sept - Nov 2025](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/SRA.md) (Role: Part-time student research assistant)
 
-#### [Part-Time Temporary Student Research Assistant in The University of Hong Kong, Sept - Nov 2025](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/SRA.md)
-**Role:** Part-time student research assistant 
+#### [Winter Intern in Hong Kong Productivity Council, Dec 2025 - Jan 2026](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/HKPC_Winter_Intern.md) (Role: Wintern Intern in Smart Manufacturing Division (Fashion and Textile Industry & Smart Machinery and Equipment))
 
-#### [Winter Intern in Hong Kong Productivity Council, Dec 2025 - Jan 2026](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/HKPC_Winter_Intern.md)
-**Role:** Wintern Intern in Smart Manufacturing Division (Fashion and Textile Industry & Smart Machinery and Equipment
 
