@@ -1,4 +1,4 @@
-### DBF Administrative Work, Sept 2024 - now
+### DBF Administrative Work, Sept 2024 - Jul 2026
 
 **Role:** Administrative leader from Fall 2024 to now
 
