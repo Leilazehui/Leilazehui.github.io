@@ -8,10 +8,15 @@ Mechanical Engineering student at the University of Hong Kong
 
 Interested in :
 ✈ Aerospace Systems Engineering
+
 🚁 UAV Design & Control
+
 🛰 Space Systems
+
 🤖 Robotics & Autonomous Systems
+
 📊 Multidisciplinary Design Optimization
+
 
 [Project portfolio](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Project%20porfolio_Zhao%20Zehui%20_compressed%20(1).pdf) | [CV](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Zhao%20Zehui_CV_work.pdf)
 
@@ -32,10 +37,6 @@ Project Experiences:
 #### [Power transmission Unit Design for Mining Industry Scenario](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/transmission_unit.md)
 
 #### [My certification & Membership](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Certification%20%26%20Membership.md)
-
-Future Goals:
-- **MSc Aerospace Engineering**
-- **Research in UAVs, Flight Dynamics and MDO**
 
 Here are My Work Experiences:
 #### [Summer Intern in The Hong Kong and China Gas Company (Towngas), Jul 2024 - Aug 2024](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/towngas_intern.md) (Role: Summer Intern in residential product and quality department)
