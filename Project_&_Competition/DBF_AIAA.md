@@ -2,9 +2,6 @@
 
 ### Role: Team Leader/Chief Engineer/Aerodynamic Lead/Observer crew
 
-**Here to know about the detail of all my design and work in this project: 
-[AIAA DBF 2026](https://github.com/Leilazehui/AIAA-DBF-2026-Team-Lead-and-Chief-Engineer-/tree/main)**
-
 ### Tools: SolidWorks, XFLR5, ANSYS, 3D Printing, MATLAB, Microsoft Suite 
 
 ### Description:
@@ -14,18 +11,17 @@
 - Secured sponsorships from companies in aviation industry, including "L'Voyage", and "The Safety Collaborative".
 #### Chief Engineer: 
 - Care for teammates' individual parts' study, provide suggestions and support for teammates' design and personal situation to make sure the progress is on the track.
-- Performed aircraft performance analysis to simulate the highest score possible case in all missions for the team to achieve using MATLAB.
+- Performed aircraft performance analysis to simulate the highest score possible case in all missions for the team to achieve through Multidisciplinary Optimization Framework on MATLAB.
 - Designed Team jacket and team logo for DBF 2026
 #### Aerodynamic Lead: 
 - In charge of Aerodynamic Analysis which include literature study and calculation of main wing, Conducting CFD simulation for airfoils, 3D wing model and the model aircraft on Xflr5 and Ansys.
 #### Mechanism design:
 - Banner Attachment and Deployment Mechanism: Design an attchment and deployment mechanism using SolidWorks and 3D Printing for the banner which can be towed and released through remote-control during flight.
 
-#### Multidisciplinary Optimization Model (MDO)
-- A MDO framework was designed to optimize the best score case for the aircraft configuration.
+**Here to my design and work blog for this project: 
+[AIAA DBF 2026](https://github.com/Leilazehui/AIAA-DBF-2026-Team-Lead-and-Chief-Engineer-/tree/main)**
 
-#### Detail of the study: 
-(Due to ongoing academic review, theis repository is currently private. I am happy to share with researchers/collaborators upon request!)
+**Detail of the project** (available on my project portfolio document at README page)
 
 ### Result of the Competition
 Our team accomplished AIAA DBF 2026 and ranked 32th worldwide, 3rd in Asia and 2nd in Hong Kong. I served as a observer crew member to collaborate with team's pilot during the flight mission and check on when the judge on both side of the lap raised the flag and to let the pilot know when to turn.
