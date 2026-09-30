@@ -28,7 +28,7 @@
 (Due to ongoing academic review, theis repository is currently private. I am happy to share with researchers/collaborators upon request!)
 
 ### Result of the Competition
-Our team accomplished AIAA DBF 2026 and ranked 32th worldwide, 3rd in Asia and 2nd in Hong Kong. I served as a observer crew member to collaborate with team's pilot during the flight mission and check on when the judge on both side of the lap raised the flag and to let the pilot konw when to turn.
+Our team accomplished AIAA DBF 2026 and ranked 32th worldwide, 3rd in Asia and 2nd in Hong Kong. I served as a observer crew member to collaborate with team's pilot during the flight mission and check on when the judge on both side of the lap raised the flag and to let the pilot know when to turn.
 <p align="center">
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/grp-photo-banner%20-%20Copy.jpeg" width=45%  />
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/deployed%20banner.jpeg" width=45%  />
