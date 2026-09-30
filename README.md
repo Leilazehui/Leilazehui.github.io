@@ -11,7 +11,7 @@ Interested in :
 🤖 Robotics & Autonomous Systems
 📊 Multidisciplinary Design Optimization
 
-[Contact Info](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/about.md)
+[Contact Info](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/about.md)        [Project portfolio](https://github.com/Leilazehui/Multidisciplinary-Optimization-Framework-for-Aeronautics/tree/main)
 
 <p align="center">
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Photo%20about%20me.png" width="35%"  />
