@@ -7,6 +7,7 @@ About me: Leila Zhao
 - Bachelor's in Mechanical Engineering, The University of Hong Kong (expected 2027)
 - A+ in engineering project courses and CAD courses [**here to know about what I did in the project**](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/transmission_unit.md)
 - A and A- in Mechanics of Solids, Dynamics and Control, Thermodynamics
+- A- in Capstone project [Here to the full project report](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/B01_Design_Build_Fly_Final_Report.pdf)
 
 
 ## Interests
