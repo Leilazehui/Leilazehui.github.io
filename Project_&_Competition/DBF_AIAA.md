@@ -31,6 +31,7 @@
 Our team accomplished AIAA DBF 2026 and ranked 32th worldwide, 3rd in Asia and 2nd in Hong Kong. I served as a observer crew member to collaborate with team's pilot during the flight mission and check on when the judge on both side of the lap raised the flag and to let the pilot konw when to turn.
 <p align="center">
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/grp-photo-banner%20-%20Copy.jpeg" width=45%  />
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/deployed%20banner.jpeg
 <p/>
 
 I was a non-final-year member in AIAA team 2025, where I assisted in plane manufacturing and logistics during the competition site in US in April 2025
