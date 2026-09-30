@@ -11,7 +11,7 @@
 - Secured sponsorships from companies in aviation industry, including "L'Voyage", and "The Safety Collaborative".
 #### Chief Engineer: 
 - Care for teammates' individual parts' study, provide suggestions and support for teammates' design and personal situation to make sure the progress is on the track.
-- Performed aircraft performance analysis to simulate the highest score possible case in all missions for the team to achieve through Multidisciplinary Optimization Framework on MATLAB.
+- Performed aircraft performance analysis to simulate the highest score possible case in all missions for the team to achieve through Multidisciplinary Optimization Framework on MATLAB. [Here for more information](https://github.com/Leilazehui/Multidisciplinary-Optimization-Framework-for-Aeronautics/tree/main)
 - Designed Team jacket and team logo for DBF 2026
 #### Aerodynamic Lead: 
 - In charge of Aerodynamic Analysis which include literature study and calculation of main wing, Conducting CFD simulation for airfoils, 3D wing model and the model aircraft on Xflr5 and Ansys.
