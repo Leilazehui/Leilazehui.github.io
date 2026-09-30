@@ -6,7 +6,8 @@ Space exploration has been the driving force that motivated me to pursue enginee
 
 Mechanical Engineering student at the University of Hong Kong
 
-Interested in :
+**Interested topics**
+
 ✈ Aerospace Systems Engineering
 
 🚁 UAV Design & Control
