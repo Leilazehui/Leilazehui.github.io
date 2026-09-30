@@ -13,7 +13,7 @@ Interested in :
 🤖 Robotics & Autonomous Systems
 📊 Multidisciplinary Design Optimization
 
-[Project portfolio](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Project_porfolio_Zhao_Zehui.pdf)
+[Project portfolio](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Project%20porfolio_Zhao%20Zehui%20_compressed%20(1).pdf) | [CV](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Zhao%20Zehui_CV_work.pdf)
 
 <p align="center">
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Photo%20about%20me.png" width="35%"  />
