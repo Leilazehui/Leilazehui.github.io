@@ -8,10 +8,9 @@
 - Utilized engineering design (SolidWorks) to create models for improving company’s office appearance and professionalism.
 
 A brief literature study and market research on the radar system and AI CCTV
-<p> Radar system & AI CCTV Study </p>
-<p align="center">
-  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Radar%20systems%20%26%20AI%20CCTV_Zhao%20Zehui.pdf" width="50%"  />
-</p>
+
+[Radar system & AI CCTV Study](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Radar%20systems%20%26%20AI%20CCTV_Zhao%20Zehui.pdf)
+
 <p> Designed and 3D printing of company logo for office decoration </p>
 <p align="center">
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/3D_Printing_Company_Logo.jpg" width="50%"  />
