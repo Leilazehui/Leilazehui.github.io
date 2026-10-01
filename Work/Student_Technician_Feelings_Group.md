@@ -9,7 +9,7 @@
 
 A brief literature study and market research on the radar system and AI CCTV
 
-[Radar system & AI CCTV Study](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Radar%20systems%20%26%20AI%20CCTV_Zhao%20Zehui.pdf)
+[Radar system & AI CCTV Study Report](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Radar%20systems%20%26%20AI%20CCTV_Zhao%20Zehui.pdf)
 
 <p> Designed and 3D printing of company logo for office decoration </p>
 <p align="center">
