@@ -45,7 +45,7 @@ Project Experiences:
 Here are My Work Experiences:
 #### [Summer Intern in The Hong Kong and China Gas Company (Towngas), Jul 2024 - Aug 2024](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/towngas_intern.md) (Role: Summer Intern in residential product and quality department)
 
-#### [WeGoAlgae, Jul 2024 - Dec 2024](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/WeGoAlgae.md) (Role: Mechanical and Electrical Engineer)
+#### [WeGoAlgae, Jul 2024 - Dec 2024](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/WeGoAlgae.md) (Role: Mechanical and Electrical Engineer)
 
 #### [Winter Intern: Student Technician in Feelings Group, Dec 2024 - Jan 2025](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/Student_Technician_Feelings_Group.md) (Role: Winter intern-Student Technican in Hardware Team)
 
