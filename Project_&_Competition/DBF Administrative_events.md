@@ -3,7 +3,7 @@
 #### Founding member and advisor of HKUDBF AIAA Student Branch 2026 - 2027
 - Initiated and organized the application process for HKU AIAA Student Branch, including document preparation, stakeholder coordination and transition planning. Advise current members regarding event organization, technical experiences and resources allocation.
 
-[HKUDBF Event Report 2024 - 2026]()
+[HKUDBF Event Report 2024 - 2026](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/HKUDBF%20Event%20Record%20%26%20HKUDBF%20AIAA%20Student%20Branch%20Application.pdf)
 
 
 #### Administrative leader from Fall 2024 to May 2026
