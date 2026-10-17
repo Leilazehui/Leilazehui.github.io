@@ -1,7 +1,12 @@
-### DBF Administrative Work, Sept 2024 - Jul 2026
+### HKUDBF Management and AIAA Student Branch Establishment, Sept 2024 - Jul 2026
 
-**Role:** Administrative leader from Fall 2024 to now
+#### Founding member and advisor of HKUDBF AIAA Student Branch 2026 - 2027
+- Initiated and organized the application process for HKU AIAA Student Branch, including document preparation, stakeholder coordination and transition planning. Advise current members regarding event organization, technical experiences and resources allocation.
 
+[HKUDBF Event Report 2024 - 2026]()
+
+
+#### Administrative leader from Fall 2024 to May 2026
 **Description:** 
  - Organize and hold events such as recruitment talk and booth, SolidWorks workshop to teach participants about the use of SolidWorks, and stimulate their interests in 3D model drawing and model aircraft, and to promote HKU DBF Team to all major students.
 - Manage administrative documents, team poster and jacket design and promotions
