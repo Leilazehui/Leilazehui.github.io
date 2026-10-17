@@ -30,6 +30,8 @@ Mechanical Engineering student at the University of Hong Kong
 
 
 Project Experiences:
+#### [Drone Control and Path Planning]()
+
 #### [CanSat Satellite Design](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/CANSAT%20Satellite%20Design.md)      **Role:** Software Lead
 
 #### [AIAA DBF 2026 Competition](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/DBF_AIAA.md)      **Role:** Team Leader, Chief Engineering, Aerodynamic Lead, Observer Crew
