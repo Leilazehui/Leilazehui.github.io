@@ -22,7 +22,7 @@
 
 [**AIAA DBF 2026**](https://github.com/Leilazehui/AIAA-DBF-2026-Team-Lead-and-Chief-Engineer-/tree/main)
 
-[**Competition proposal (Rank: 44/175)**](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/2026DBF_The_University_of_Hong_Kong_PROPOSAL.pdf)
+[**Competition proposal (Rank: 44/175)**](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/2024DBF_The%20University%20of%20Hong%20Kong_PROPOSAL.pdf)
 
 [**Competition Report (Rank: 28/98)**](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/2026DBF_The_University_of_Hong_Kong_PROPOSAL.pdf)
 
