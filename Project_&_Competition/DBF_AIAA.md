@@ -21,8 +21,8 @@
 **Here to my design and work blog for this project: 
 [AIAA DBF 2026](https://github.com/Leilazehui/AIAA-DBF-2026-Team-Lead-and-Chief-Engineer-/tree/main)**
 
-[**Competition proposal**]
-[**Competition Report**]
+[**Competition proposal**](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/2026DBF_The_University_of_Hong_Kong_PROPOSAL.pdf)
+[**Competition Report**](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/2026DBF_The_University_of_Hong_Kong_PROPOSAL.pdf)
 
 ### Result of the Competition
 Our team accomplished AIAA DBF 2026 and ranked 32th worldwide, 3rd in Asia and 2nd in Hong Kong. I served as a observer crew member to collaborate with team's pilot during the flight mission and check on when the judge on both side of the lap raised the flag and to let the pilot know when to turn.
