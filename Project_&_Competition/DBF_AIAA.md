@@ -19,6 +19,7 @@
 - Banner Attachment and Deployment Mechanism: Design an attchment and deployment mechanism using SolidWorks and 3D Printing for the banner which can be towed and released through remote-control during flight.
 
 **Here to my design and work blog for this project: 
+
 [AIAA DBF 2026](https://github.com/Leilazehui/AIAA-DBF-2026-Team-Lead-and-Chief-Engineer-/tree/main)**
 
 [**Competition proposal**](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/2026DBF_The_University_of_Hong_Kong_PROPOSAL.pdf)
