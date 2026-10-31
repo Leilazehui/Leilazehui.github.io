@@ -55,7 +55,7 @@ Work Experiences:
 
 Skills:
 
-| CAD | Programming | System Engineering | Aerospace | 
-|---------|-----------|-------------------| -------------|
-| SolidWorks, AutoCAD, Ansys, Fusion360 | MATLAB, Python, C/C++ | Trade-space exploration, system architecture, requirement analysis, verification and validation | Aircraft design, UAV integration, mission analysis, flight testing |
+| CAD | Simulation | Programming | System Engineering | Aerospace | 
+|---------|--------|-----------|-------------------| -------------|
+| SolidWorks, AutoCAD, Fusion360 | Ansys, XFLR5, VS Code, Arduino | MATLAB, Python, C/C++ | Trade-space exploration, system architecture, requirement analysis, verification and validation | Aircraft design, UAV integration, mission analysis, flight testing |
 
