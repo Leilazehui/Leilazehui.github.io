@@ -39,6 +39,8 @@ Selecteed projects:
 
 #### [AIAA DBF 2026 Competition](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/DBF_AIAA.md)      **Role:** Team Leader, Chief Engineering, Aerodynamic Lead, Observer Crew
 
+#### [Trade-space design framework and decision optimization for mission-driven aircraft desgin](https://github.com/Leilazehui/Trade-Space-Exploration-and-Decision-Framework-for-Mission-Driven-Aircraft-Design-/tree/main)
+
 
 Work Experiences:
 #### [Summer Intern in The Hong Kong and China Gas Company (Towngas), Jul 2024 - Aug 2024](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/towngas_intern.md) (Role: Summer Intern in residential product and quality department)
