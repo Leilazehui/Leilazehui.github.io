@@ -39,7 +39,7 @@ Selecteed projects:
 
 #### [AIAA DBF 2026 Competition](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/DBF_AIAA.md)      **Role:** Team Leader, Chief Engineering, Aerodynamic Lead, Observer Crew
 
-#### [Trade-space design framework and decision optimization for mission-driven aircraft desgin](https://github.com/Leilazehui/Trade-Space-Exploration-and-Decision-Framework-for-Mission-Driven-Aircraft-Design-/tree/main)
+#### [Trade-space design framework and decision optimization for mission-driven aircraft design](https://github.com/Leilazehui/Trade-Space-Exploration-and-Decision-Framework-for-Mission-Driven-Aircraft-Design-/tree/main)       **Manuscript under preparation**
 
 
 Work Experiences:
