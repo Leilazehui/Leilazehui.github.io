@@ -17,8 +17,7 @@ My passion in pursuing aerospace engineering will continue encouraging me to ste
 - A- in Capstone project
 
 ## Interests
-Aerospace: Space systems(still learning); human factors, CFD, CAD design, Mechatronics
-Mechanical Engineering in Aerospace
+Space systems; human factors, mechanical design, Robotics
 
 ## Contact
 - Email: leilazhao853@gmail.com
