@@ -20,7 +20,3 @@ Mechanical Engineering in Aerospace
 - School Email: u3606405@connect.hku.hk
 - LinkedIn: https://www.linkedin.com/in/zehui-zhao
 - Phone No.: +852 9713 0803
-
-### Leisure Events:
-- Music, camping, Hiking, Snorkelling and meet new friends at Uni!
-- I also practice mindfulness, meditation and learn about the bridge between us and the universe from both scientific and spiritual aspect.
