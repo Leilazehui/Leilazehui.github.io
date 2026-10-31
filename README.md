@@ -22,8 +22,6 @@ My passion in pursuing aerospace engineering will continue encouraging me to ste
 
 🤖 Robotics & Autonomous Systems
 
-📊 Multidisciplinary Design Optimization
-
 
 [Project portfolio](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Project%20porfolio_Zhao%20Zehui%20_compressed%20(1).pdf) | [CV](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Zhao%20Zehui_CV_work.pdf)
 
@@ -39,6 +37,8 @@ Selecteed projects:
 
 #### [AIAA DBF 2026 Competition](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/DBF_AIAA.md)      **Role:** Team Leader, Chief Engineering, Aerodynamic Lead, Observer Crew
 
+Research:
+
 #### [Trade-space design framework and decision optimization for mission-driven aircraft design](https://github.com/Leilazehui/Trade-Space-Exploration-and-Decision-Framework-for-Mission-Driven-Aircraft-Design-/tree/main)       **Manuscript under preparation**
 
 
@@ -53,4 +53,9 @@ Work Experiences:
 
 #### [Winter Intern in Hong Kong Productivity Council, Dec 2025 - Jan 2026](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/HKPC_Winter_Intern.md) (Role: Wintern Intern in Smart Manufacturing Division (Fashion and Textile Industry & Smart Machinery and Equipment))
 
+Skills:
+
+| CAD | Programming | System Engineering | Aerospace | 
+|---------|-----------|-------------------| -------------|
+| SolidWorks, AutoCAD, Ansys, Fusion360 | MATLAB, Python, C/C++ | Trade-space exploration, system architecture, requirement analysis, verification and validation | Aircraft design, UAV integration, mission analysis, flight testing |
 
