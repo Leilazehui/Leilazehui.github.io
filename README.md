@@ -30,19 +30,19 @@ My experiences span aircraft design competitions, engineering research, flight s
 </p>
 
 
-Selecteed projects:
+**Selecteed projects:**
 #### [Drone Control and Path Planning](https://github.com/Leilazehui/Leilazehui.github.io/tree/main/Project_%26_Competition/UAV%20Design%20and%20Control%20Drones)
 
-#### [CanSat Satellite Design](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/CANSAT%20Satellite%20Design.md)      **Role:** Software Lead
+#### [CanSat Satellite Design](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/CANSAT%20Satellite%20Design.md)      Role: Software Lead
 
-#### [AIAA DBF 2026 Competition](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/DBF_AIAA.md)      **Role:** Team Leader, Chief Engineering, Aerodynamic Lead, Observer Crew
+#### [AIAA DBF 2026 Competition](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/DBF_AIAA.md)      Role: Team Leader, Chief Engineering, Aerodynamic Lead, Observer Crew
 
-Research:
+**Research:**
 
-#### [Trade-space design framework and decision optimization for mission-driven aircraft design](https://github.com/Leilazehui/Trade-Space-Exploration-and-Decision-Framework-for-Mission-Driven-Aircraft-Design-/tree/main)       **Manuscript under preparation**
+#### [Trade-space design framework and decision optimization for mission-driven aircraft design](https://github.com/Leilazehui/Trade-Space-Exploration-and-Decision-Framework-for-Mission-Driven-Aircraft-Design-/tree/main)     Manuscript under preparation
 
 
-Work Experiences:
+**Work Experiences:**
 #### [Summer Intern in The Hong Kong and China Gas Company (Towngas), Jul 2024 - Aug 2024](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/towngas_intern.md) (Role: Summer Intern in residential product and quality department)
 
 #### [WeGoAlgae, Jul 2024 - Dec 2024](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/WeGoAlgae.md) (Role: Mechanical and Electrical Engineer)
@@ -53,7 +53,7 @@ Work Experiences:
 
 #### [Winter Intern in Hong Kong Productivity Council, Dec 2025 - Jan 2026](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/HKPC_Winter_Intern.md) (Role: Wintern Intern in Smart Manufacturing Division (Fashion and Textile Industry & Smart Machinery and Equipment))
 
-Skills:
+**Skills:**
 
 | CAD | Simulation | Programming | System Engineering | Aerospace | 
 |---------|--------|-----------|-------------------| -------------|
