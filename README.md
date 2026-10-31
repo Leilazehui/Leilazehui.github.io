@@ -6,11 +6,9 @@
 
 ### About me 
 
- [(more)](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/about.md)
-
 Hi, I'm Leila Zhao.
 
-My experiences span aircraft design competitions, engineering research, flight system development and testing, manufacturing studies, and multidisciplinary engineering projects. I am particularly interested in systems engineering, and the development of future aerospace technologies.
+My experiences span aircraft design competitions, engineering research, flight system development and testing, manufacturing studies, and multidisciplinary engineering projects. I am particularly interested in systems engineering, and the development of future aerospace technologies.  [(more)](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/about.md)
 
 **Interested topics**
 
