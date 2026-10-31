@@ -1,3 +1,9 @@
+# Leila Zhao
+
+## Mechanical Engineering Student at the University of Hong Kong | Aspiring aerospace system engineer
+
+### Passionate about aircraft designm UAV systems and future space exploration techonologies Passionate about aircraft design, UAV systems, flight testing and future space exploration technologies.
+
 ### About me 
 
 Space exploration has been the driving force that motivated me to pursue engineering professionalism. Ever since I was small, I was drawn to mysteries that are still unknown to human. Space has captivated me since I was 7. 
@@ -5,9 +11,6 @@ My curiosity and persistence in knowing more about this world and the universe g
 Inevitably, I have to face countless challenges, setbacks and uncertainties on my path to follow my passion, but I learnt to embrace and flourish the difficulties and turned them into my fuel. 
 My passion in pursuing aerospace engineering will continue encouraging me to step out of my comfort zone, keep me in the path of knowledge and curiosity. [(more)](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/about.md)
 
-#### Hi, I'm Leila Zhao.
-
-Mechanical Engineering student at the University of Hong Kong
 
 **Interested topics**
 
@@ -29,22 +32,15 @@ Mechanical Engineering student at the University of Hong Kong
 </p>
 
 
-Project Experiences:
-#### [Drone Control and Path Planning]()
+Selecteed projects:
+#### [Drone Control and Path Planning](https://github.com/Leilazehui/Leilazehui.github.io/tree/main/Project_%26_Competition/UAV%20Design%20and%20Control%20Drones)
 
 #### [CanSat Satellite Design](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/CANSAT%20Satellite%20Design.md)      **Role:** Software Lead
 
 #### [AIAA DBF 2026 Competition](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/DBF_AIAA.md)      **Role:** Team Leader, Chief Engineering, Aerodynamic Lead, Observer Crew
 
-#### [DBF Adminstrative Management](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_&_Competition/DBF%20Administrative_events.md)      **Role:** Administrative leader and 3D printing study  
 
-#### [3D printing material and wood material comparison in lightweight design, and ribs structuredesign](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_&_Competition/3D_printing_Study.md)
-
-#### [Power transmission Unit Design for Mining Industry Scenario](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Project_%26_Competition/transmission_unit.md)
-
-#### [My certification & Membership](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Certification%20%26%20Membership.md)
-
-Here are My Work Experiences:
+Work Experiences:
 #### [Summer Intern in The Hong Kong and China Gas Company (Towngas), Jul 2024 - Aug 2024](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/towngas_intern.md) (Role: Summer Intern in residential product and quality department)
 
 #### [WeGoAlgae, Jul 2024 - Dec 2024](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Work/WeGoAlgae.md) (Role: Mechanical and Electrical Engineer)
