@@ -38,7 +38,7 @@ Understand fundamentals of MBSE and common models adopted by companies to enhanc
 - Gained understanding in mechanical design
 
 <p align="center">
-  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Robomaster%202023.jpg" width=50%   />
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Robomaster%202023.jpg" width=45%   />
 </p>
 
 ### 8. Hong Kong Insitute of Engineers: Student Member, 2023
