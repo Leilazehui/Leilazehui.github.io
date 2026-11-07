@@ -5,7 +5,7 @@
 - Oversaw product design and market research.
 
 <p align="center">
-  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/CX_career.jpg" width=50%  />
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/CX_career.jpg" width=35%  />
 </p>
 
 [Event Highlight](https://www.linkedin.com/posts/billy-poon-109b5a105_cathay-movebeyond-makeyourcareermove-activity-7375868331058319360-Iqv6?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD23tT4BoWV4G3h-5IYy6HmGhoF5z375C-I)
@@ -19,23 +19,38 @@ Understand fundamentals of MBSE and common models adopted by companies to enhanc
   
 [MBSE Certificate](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/MBSE.pdf)
 
-### 5. MATLAB: Matlab-Onramp training online course, Nov 2024 | Programing Construct, Sept 2026
+### 5. RAICOM 2025 | Project manager
+- Break down the structure of the algorithm and played the robotic arm pilot for the automatic robotic arm challenge
+
+<p align="center">
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/RAICOM.jpg"   width=50%   />
+</p>
+
+### 6. MATLAB: Matlab-Onramp training online course, Nov 2024 | Programing Construct, Sept 2026
 - Learn about fundamentals of MATLAB usage, inclulding data analysis, graph plotting, and currently working on solving coding challenges on MATLAB
 
 [MATLAB Onramp cert](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/MATLAB.pdf)
 [MATLAB Programming Construct](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/matlab-programming-constructs-cert.jpg)
 
 
-### 6. Hong Kong Insitute of Engineers: Student Member, 2023
+### 7. HKU RoboMaster 2023
+- Mechanical team member responsible for robotics mechanical assembly
+- Gained understanding in mechanical design
 
-### 7. Institute of Mechanical Engineering, Hong Kong: Young member, 2023 
+<p align="center">
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Robomaster%202023.jpg" width=50%   />
+</p>
 
-### 8. Hong Kong Techathon 2023
+### 8. Hong Kong Insitute of Engineers: Student Member, 2023
+
+### 9. Institute of Mechanical Engineering, Hong Kong: Young member, 2023 
+
+### 10. Hong Kong Techathon 2023
 - Designed an app interface for educational purposes in subjects related to Astronomy in group
 
 [Techathon2023](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Techathon2023.pdf)
 
-### 9. The 1st Hong Kong National Aerospace Knowledge Competition, 2022
+### 11. The 1st Hong Kong National Aerospace Knowledge Competition, 2022
 
 **Discription:** Questions include basics of aerospace development in China and the world and two open questions about the recycling plan on the "Dong Fang Yi Hao" (the first satellite launched by China), and Thoughts on Base development on Moon.
 - Received Champion in Open group, with certificate, plant seeds from space, and "Zhurung" Mars rover model as prizes.
