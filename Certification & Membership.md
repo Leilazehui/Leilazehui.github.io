@@ -5,7 +5,7 @@
 - Oversaw product design and market research.
 
 <p align="center">
-  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/CX_career.jpg" width=35%  />
+  <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/CX_career.jpg" width=40%  />
 </p>
 
 [Event Highlight](https://www.linkedin.com/posts/billy-poon-109b5a105_cathay-movebeyond-makeyourcareermove-activity-7375868331058319360-Iqv6?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD23tT4BoWV4G3h-5IYy6HmGhoF5z375C-I)
