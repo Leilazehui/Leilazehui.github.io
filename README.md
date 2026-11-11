@@ -21,7 +21,7 @@ My experiences span aircraft design competitions, engineering research, flight s
 🤖 Robotics & Autonomous Systems
 
 
-[Project portfolio](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Project%20porfolio_Zhao%20Zehui%20_compressed%20(1).pdf) | [CV](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Zhao%20Zehui_CV_work.pdf)
+[Project portfolio](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Project%20portfolio_Zhao%20Zehui.pdf) | [CV](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Zhao%20Zehui_CV_work.pdf)
 
 <p align="center">
   <img src="https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Photo%20about%20me.png" width="35%"  />
