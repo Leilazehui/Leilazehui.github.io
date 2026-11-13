@@ -3,13 +3,14 @@
 **Company**: A startup in Hong Kong Science And Technology Park and NVIDIA Incubation Hub
 
 **Job Description**: 
-- Performed literature study, research and market study for Radar hardware systems medical device development in for tracking health conditions.
-- Gained experience in camera development using electronic modules, such as Raspberry Pi, LAN network and camera module.
-- Utilized engineering design (SolidWorks) to create models for improving company’s office appearance and professionalism.
+- Conducted independent research on 3 radar technologies, including UWB, Doppler and FMCW for non-contact animal vital-sign monitoring.
+- Compared 5 radar characteristics, including bandwidth, operating frequency, range resolution, advantages and technical limitations.
+- Evaluated radar modules, potential suppliers and alternative sensing technologies.
+- Researched AI-enabled CCTV platforms, edge-computing hardware and embedded computer vision deployment approaches.
 
-A brief literature study and market research on the radar system and AI CCTV
+A brief technical study and market research on the radar system and AI CCTV
 
-[Radar system & AI CCTV Study Report](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Radar%20systems%20%26%20AI%20CCTV_Zhao%20Zehui.pdf)
+[Technical Research and Feasibility Study on Radar Systems & AI CCTV](https://github.com/Leilazehui/Leilazehui.github.io/blob/main/Assets/Radar%20systems%20%26%20AI%20CCTV_Zhao%20Zehui.pdf)
 
 <p> Designed and 3D printing of company logo for office decoration </p>
 <p align="center">
